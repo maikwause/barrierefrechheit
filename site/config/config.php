@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', '');
+//c::set('subfolder', '');
 
 
 /* 
@@ -298,7 +298,7 @@ go to your homepage afterwards to display it on refresh.
 
 */ 
 
-c::set('troubleshoot', false);
+c::set('troubleshoot', true);
 
 
 /*
