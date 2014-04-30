@@ -1,0 +1,16 @@
+Title: Keine festen Breiten festlegen
+----
+Text:
+Nicht nur in Hinblick auf responsive Webdesign, sondern auch ob der Barrierefreiheit sollte auf die Maßangabe in festen px-Breiten verzichtet werden. Inhalte sollen sich immer flexibel dem vorgegebenen Viewport anpassen, so dass möglichst die gesamte Breite gleichzeitig sichtbar ist.
+
+----
+Block:
+
+----
+Related:
+
+-archiv/assistivetechnologien/bildschirmlupe
+-archiv/techniken/elementgroesse
+
+----
+Tags: Quick-Tipp, Sehen, Zoom, CSS

@@ -1,0 +1,32 @@
+Title: Validität
+----
+Text:
+
+Der Begriff "Validität" bezieht sich in diesem Zusammenhang auf 'Gültigkeit', das bedeutet, dass der erstellte Code der Webseite die Grundregeln erfüllen soll. Dabei gilt es, die aktuellen Webstandards des World Wide Web Consortium (W3C) einzuhalten. Valider, also gültiger, den Regeln entsprechender Quellcode hat den Vorteil, dass die unterschiedlichen Browser beim Rendering, also dem Umsetzen des Quellcodes in die entsprechende Anzeige, nicht raten oder interpretieren müssen ("Magische Fehlerkorrektur").
+
+Somit kommt es zu weniger unerwarteten Effekten, die Verschachtelungen der einzelnen HTML-Elemente werden vom Browser genau so interpretiert, wie es der Codeersteller vorgesehen hat. Hilfsmittel erhalten die Strukturinformationen, die sie für die Aufbereitung der Webseite benötigen, direkt vom Browser. Wenn dieser auf-grund fehlerhaften HTMLs bereits fehlerhafte Daten übermittelt, wird auch das assistive Programm eine fragwürdige Ausgabe produzieren.
+
+Die Validität einer Webseite kann schnell und einfach mit sogenannten Validatoren überprüft werden; nach Eingabe der jeweiligen URL auf z.B. (link: http://validator.w3.org/) werden gegebenenfalls vorhandenen Fehler mit Zeilennummer und Ursache aufgezeigt.
+
+
+
+----
+Blockhead: W3C
+
+----
+Block: 
+Das World Wide Web Consortium (W3C) ist ein internationales Konsortium, in dem Mitgliederorganisationen, ein Vollzeit-Mitarbeiterstab und die Öffentlichkeit zusammenarbeiten, um Web-Standards zu entwickeln. Das W3C verfolgt seine Aufgabe hauptsächlich über die Erstellung von Web-Standards und Richtlinien, die gedacht sind, das langfristige Wachstum des Webs sicherzustellen. Über 400 Organisationen sind Mitglieder des Konsortiums. W3C wird gemeinschaftlich vom MIT Computer Science and Artificial Intelligence Laboratory (MIT CSAIL) in den USA, dem Europäischen Forschungskonsortium für Informatik und Mathematik (ERCIM) mit Hauptsitz in Frankreich und der Keio Universität in Japan geführt und besitzt 17 weitere Büros weltweit.
+
+----
+Related:
+
+-inhalt/screenreader
+
+----
+Tags: HTML, Screenreader
+
+----
+Links:
+
+Link1: 
+	Url: http://www.w3.org/

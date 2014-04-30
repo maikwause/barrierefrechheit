@@ -1,0 +1,15 @@
+Title: Outline nicht ausblenden
+----
+Text:
+Websiteersteller sollten darauf achten, die einzelnen Elemente einer Seite semantisch (entsprechend ihrer Bedeutung) auszuzeichnen, denn Hilfsmittel wie zum Beispiel Screenreader lesen diese Elemente aus und bieten Übersichten der Überschriften direkt zum Ansteuern an, um Blinden z. B. einen Überblick über die Inhalte einer Webseite zu geben.
+
+----
+Block:
+
+----
+Related: 
+ -inhalt/semantik
+ -inhalt/focus
+
+----
+Tags: Semantik, HTML, outline, Quick-Tipp

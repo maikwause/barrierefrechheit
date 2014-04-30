@@ -1,0 +1,32 @@
+Title: Brailleschrift
+----
+Text:
+Traditionell werden Braille-Buchstaben durch ein definiertes (6-Bit)- Muster von Erhebungen im Papier dargestellt.
+
+(image: 02.jpg alt: Abbildung des Braille-Alphabets im Brockhaus von 1898 width:80%)
+
+
+> Dieses einfache, aber geistreiche System führt den Namen des franz. blinden Blindenlehrers Louis Braille(spr. braj; gest. 1852); es wurde von ihm aber nur verbessert, der Erfinder ist der Franzose Ch. Barbier.
+
+<p class="caption">Quelle: Brockhaus' Konversations-Lexikonvon 1898, S. 407.</p>
+
+(image: 03.jpg alt: Weinetikett mit Schwarzschrift und Brailletext width:80%)
+<p class="caption">Brailleschrift auf einem Weinflaschenetikett <br /></p>
+
+Mit diesem System der Erhebungen werden bis heute Texte, Bücher und Musiknoten hergestellt, am Computer kann eine Zeile des Inhalts des Bildschirms in diesen Buchstaben durch elektrisches Anheben einzelner Punkte der Zeile in Brailleschrift dargestellt werden. So können auch blinde Menschen, Zeile für Zeile (!) eine Webseite auf dieser Braillezeile lesen.
+----
+Related:
+
+-archiv/assistivetechnologien/braillezeile
+-archiv/assistivetechnologien/screenreader
+----
+Blockhead: Übrigens:
+----
+Block: Louis Braille hat das 'Braille-Alphabet' gar nicht erfunden, sondern hat es nur verbessert. Sein Erfinder heißt **Chr. Barbier**
+----
+Tags: Sehen, Assistive Technologie, Beispiel, Brailleschrift
+----
+Links:
+
+Link1:
+		Url: http://commons.wikimedia.org/wiki/File:Braille_wine_label.jpg

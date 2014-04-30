@@ -1,0 +1,7 @@
+Title: Fehler 404
+----
+Text: 
+
+Diese Seite exisitert leider nicht. Mal die Suche benutzen?
+
+Solltest Du über einen internen Verweis hier gelandet sein, freuen wir uns über eine 'Issue'-Meldung bei (link: https://github.com/maikwause/barrierefrechheit/issues text: Guthub)

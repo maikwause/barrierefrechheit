@@ -1,0 +1,34 @@
+Title: Keine Bilder zur Inhaltsvermittlung
+----
+Text:
+Die Vermittlung von Inhalten rein durch Bilder ist ungeeignet, denn blinde Menschen oder Menschen mit Sehbehinderungen, die auf assistive Technologien angewiesen sind, können die Informationen, die auf Bildern hinterlegt sind, nicht erfassen. Der laut W3C-Spezifikation verpflichtende Alternativ-(oder)Alt-Text ist dafür vorgesehen, eine alternative Beschreibung des Bildes zu hinterlegen, das von assistiven Technologien ausgelesen wird und so auch blinden Nutzern eine Idee davon vermittelt, was auf dem Bild zu sehen ist. 
+
+Auch Schmuckgraphiken oder Zusatzbilder, die keine Information vermitteln, sollten mit einem (leeren) Alt-Text 
+versehen werden, um mit der Spezifikation konform zu gehen, die einen Alternativtext vorschreibt und gleichzeitig die Screenreader davon abzuhalten, unnütze Informationen auszugeben.
+
+Auch bei der Bildbeschreibung ist weniger mehr, nicht nur dass Schmuckgraphiken ohne Beschreibung bleiben sollten, auch die Beschreibungen selbst sollten umfassend aber knapp gehalten sein. 
+
+
+<h3>Beispiel:</h3>
+(image: 01.jpg alt: kleiner lachender Junge mit lässiger Schirmmütze)
+<p class="caption">Beispielbild mit Alternativtext (link: http://stiftung-lebenshilfe.org/Geburtstagskinder_gesucht) (abgerufen 24.10.2012)</p>
+
+Alternativ-Text zum Bild: kleiner lachender Junge mit lässiger Schirmmütze
+
+Ebenso kann man sich auch unter: "fünf junge Frauen sternförmig mit den Köpfen zusammen auf dem Boden liegend" etwas vorstellen, ohne das Bild selbst gesehen zu haben. Genau nach diesem Prinzip sollte Alternativtext für Bilder funktionieren.
+
+----
+Blockhead: 
+Kochrezept für Alternativ-Texte:
+----
+Block:
+Was auf dem Bild zu sehen ist, in einem Satz zusammenfassen.
+----
+Related:
+
+-inhalt/screenreader
+
+----
+Tags: HTML, Sehen, Screenreader, Alt-Text, W3C
+
+----

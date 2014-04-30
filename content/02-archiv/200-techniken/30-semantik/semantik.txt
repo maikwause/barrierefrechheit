@@ -1,0 +1,37 @@
+Title: Semantik
+----
+Text:
+HTML-Quellcode unterliegt, wie alle strukturellen Auszeichnungssprachen, gewissen Regeln. Es gibt Elemente, die den anzuzeigenden Inhalt strukturieren. Dazu gehören
+- `<hx>`-Elemente für Überschriften verschiedener Ordnung, dabei steht ein Text, eingeschlossen in `<h1>…</h1>` für eine Überschrift erster Ordnung, `<h2>…</h2>` zeichnet eine Überschrift zweiter Ordnung aus, usw.
+- `<p>…</p>` zeichnet einen Absatz aus,
+- `<li>…</li>` ein Listenelement,
+- 	etc.
+
+Websiteersteller sollten darauf achten, die einzelnen Elemente einer Seite semantisch (entsprechend ihrer Bedeutung) auszuzeichnen, denn Hilfsmittel wie zum Beispiel Screenreader lesen diese Elemente aus und bieten Übersichten der Überschriften direkt zum Ansteuern an, um Blinden z. B. einen Überblick über die Inhalte einer Webseite zu geben.
+
+//ToDo Bild Liste de Elemente
+
+Hilfsmittel dieser Art können Links, Überschriften, Sprungmarken und ähnliches allerdings nur richtig auslesen, wenn diese Elemente entsprechend ihrer Bedeutung (semantisch) formatiert sind. Formatierungen à la `<span class="h1">` für Textabschnitte, die eigentlich Überschriften sind, fallen durch das Raster und werden nicht mit angezeigt. Das "fett und große Schrift", das mit dieser Formatierung definiert wurde, interpretiert das Bewusstsein der Sehenden automatisch als Überschrift, weil sie es von den Druckmedien so kennen; blinden Nutzern geht diese In-formation allerdings verloren.
+
+Empfehlenswert ist in diesem Zusammenhang auch das Hinzufügen von "unsichtbaren", also verborgen formatierten Überschriften zu Beginn der jeweiligen relevanten Abschnitte, sodass die Hilfsmittel-Nutzer 'Navigation', 'Inhalt', 'Seitenbereich' direkt erkennen und ansteuern können.
+
+Ähnlich verhält es sich mit Absätzen, den mit `<p>…</p>` ausgezeichneten Abschnitten: Mit einer Tastenkombination können Benutzer von Screenreadern von Absatz zu Absatz springen. Dies gelingt natürlich nur, wenn auch Absätze als solche deklariert sind; Menschen ohne visuelle Einschränkung können Texte aber auch viel besser lesen, wenn diese Absätze enthalten, die klassische "Bleiwüste" wird vermieden. 
+
+Mit allen anderen Elementen im HTML-Code verhält es sich ähnlich: Buttons sind nur erkenn- und bedienbar, wenn sie auch als Buttons semantisch ausgezeichnet sind, optisch aufwendige Links, die ihre Beschriftung als Hintergrundbild tragen und nur so aussehen, als wären sie Buttons, funktionieren hier nicht. Neben den faktischen Notwendigkeiten gehört es einfach zum guten Handwerk, HTML-Elemente richtig HTML-Elemente richtig auszuzeichnen und sich an die Regeln der Code-Erstellung zu halten.
+
+Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch Suchmaschinen sind sozusagen "blind" und orientieren sich beim Indizieren der Inhalte einer Webseite rein an den semantischen Strukturen; eine semantisch ausgezeichnete Überschrift wird bei der Anzeige der Suchergebnisse höher gewichtet als ein gleich-lautender <span>-Abschnitt.
+
+----
+Blockhead: Sprungmarken
+
+----
+Block: Sprungmarken sind Links am Anfang des Dokuments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Verwandter Artikel "(link: inhalt/sprungmarken text:Sprungmarken)" 
+
+----
+Related:
+
+-inhalt/sprungmarken
+-inhalt/screenreader
+
+----
+Tags: Semantik, HTML, Screenreader, Handwerk, Überschriften

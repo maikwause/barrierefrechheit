@@ -1,0 +1,72 @@
+Title: Elemente flexibel definieren
+----
+Text:
+
+Klassischerweise wird mit der Tastenkombination 'Strg +' die Zoomfunktion jedes Browsers aktiviert und die Seite wird vergrößert.
+
+Traditionell (seit Netscape Navigator 4.x) wird bei der Vergrößerungsfunktion der Text (und nur der Text) der Webseite vergrößert. Dabei kann es zu Problemen kommen, wenn z. B. Breitenangaben von Seitenbereichen in absoluten Maßangaben (wie px) hinterlegt sind; Texte ragen über Flächen hinaus, Ebenen werden übereinander geschoben, Teile der Texte sind nicht lesbar.
+
+Im Sommer 2012 sind inzwischen alle Browserhersteller bei der Zoom-Vergrößerung angekommen, hierbei wird beim Aufruf der Vergrößerungsfunktion standardmäßig die gesamte Webseite vergrößert, vergleichbar mit dem Einsatz einer Lupenfunktion. Die Verhältnisse der Seitenbereiche bleiben dabei erhalten, allerdings rutschen bei der der Zoom-Vergrößerung schnell Bereiche der Seite aus dem Viewport; Teile der Seite, besonders am Rand, bleiben ungesehen.
+
+Um diesem Problem entgegenzutreten, empfiehlt es sich, die Größe von Flächen oder Spalten in relativen Größen wie "em" (einer Maßeinheit, die eine relative Größe in Abhängigkeit der Schriftgröße des Elternelements angibt) oder "%" anzugeben.
+
+Wenn eine Spalte ihre Größenangaben ebenfalls in "em" erhält, wird sie bei der "Textzoom"-Vergrößerung ebenfalls mitwachsen, so rutschen keine Texte aus Boxen oder Feldern heraus, die Lesbarkeit der Texte bleibt erhalten.
+
+Es könnten z. B. die linke und die rechte Spalte 25% der Breite des Elterncontainers annehmen, der Inhaltsbereich erhält 50% der definierten Breite. Dadurch passt sich der anzuzeigende Bereich unterschiedlich großer Monitore entsprechend automatisch an den Viewport an. Ist mehr Raum in der Breite vorhanden, spannen sich die jeweiligen Bereiche in eine weitere Breite, ohne das Verhältnis zueinander zu verlieren. Wenn dann noch mit "max-width" und "min-width" für den ganzen Body-Container gearbeitet wird, erreicht man größtmögliche Flexibilität bei der Darstellung der Inhalte.
+
+Dies ist nicht nur in Hinsicht auf die Barrierefreiheit wichtig. Menschen mit Behinderungen nutzen trotz der Standardeinstellung "Lupen-Zoom" weiterhin die Text-Zoom-Funktion, weil diese sich leichter an die individuellen Bedürfnisse anpassen lässt. Ebenso lassen sich mit dieser Technik Inhalte auf vielen unterschiedlich großen Endgeräten anzeigen, das so genannte "Responsive Webdesign" erfordert zusätzlich zu weiteren Komponenten genau diese flexible Anzeigeform.
+
+#### Beispiel-Code zur Verdeutlichung:
+```html
+	<div class="wrapper">
+		<div class="b66">
+			<h2>Dies ist die Inhaltsspalte</h2>
+		</div>
+		<div class="b33">
+			<h2>Hier kommen Nebeninhalte hin</h2>
+		</div>
+	</div>
+```
+### Zugehörige CSS-Formatierungen:
+```css
+	.wrapper {
+		margin: 0 auto; /* Automatisch zentriert */
+		max-width: 72em; /* Maximale Breite in em */
+	}
+	
+	.b66 {
+		width: 66.666%; /* Hauptspalte 2/3 der Breite */
+		float: left; /* aus dem Dokumentfluss nehmen, links schweben lassen */
+	}
+	.b33 {
+	width: 33.333%;/* Randspalte, 1/3 der Breite */
+	float: right; /
+```
+----
+Blockhead: 
+
+----
+Block: 
+
+----
+Related:
+
+-inhalt/linearisierbarkeit
+-archiv/assistivetechnologien/bildschirmlupe
+
+----
+Tags: CSS, Strg+, em, Responsive Webdesign, Zoom
+
+----
+Links:
+
+Link1: 
+     Url: http://www.codinghorror.com/blog/2009/01/the-two-types-of-browser-zoom.html
+
+Link2:
+	Url: http://www.w3.org/TR/css3-values/#font-relative-lengths 
+	Beschreibung: "Aside from ‘rem’ (which refers to the font-size of the root element), the font-relative lengths refer to the computed font metrics of the element on which they are used. The exception is when they occur in the value of the ‘font-size’ property itself, in which case they refer to the computed font metrics of the parent element (or the computed font metrics corresponding to the initial values of the ‘font’ property, if the element has no parent).
+
+Link3:
+	Url: http://www.alistapart.com/articles/responsive-web-design/
+	Beschreibung: "Responsive Webdesign" sorgt für eine angepasste Darstellung der Inhalte in Abhängigkeit der sichtbaren Bildschirmgröße, insbesondere (aber nicht nur) auf mobilen Endgeräten.	

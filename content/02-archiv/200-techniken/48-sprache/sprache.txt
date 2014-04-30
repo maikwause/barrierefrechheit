@@ -1,0 +1,58 @@
+Title: Sprachauszeichnung – auch beim Sprachwechsel
+----
+Text:
+Die Auszeichnung der Sprache eines HTML-Dokuments empfiehlt nicht nur das W3C seit der HTML-Version 4.01, sondern es empfiehlt sich aus grundsätzlichen Überlegungen. Traditionell wird vom Webseitenersteller erwartet, dem ganzen Dokument über das 'lang'-Attribut im html-Tag (`<html lang="de">`) eine Sprache zuzuweisen und einzelne, anderssprachliche Passagen entsprechend ihrer Ursprungssprache entsprechend zu kennzeichnen. 
+
+### Beispiel:
+```html
+<p>Viele <span lang="en">Websites</span> enthalten fremdsprachige Wörter.</p>
+<p lang="fr">C'est la vie!</p>
+```
+
+Problematisch an der Auszeichnung einzelner Worte und Passagen in anderen Sprachen ist das Erzeugen einer kleinen Vorlesepause der Screenreader, weil diese erst intern auf eine andere Sprache umschalten müssen. Vielen Nutzern, die sich Inhalte in einer für das ungeübte Ohr enormen Geschwindigkeit vorlesen lassen, ist diese Pause, die den Lesefluss unterbricht, zu lang, so dass sie die automatische Sprachwechsel ausschalten und sich fremdsprachliche Begriffe falsch auf Deutsch vorlesen lassen.
+
+Wenn man die aktuelle Diskussion beobachtet, stellt man fest, dass die Grundidee, auch Suchmaschinen, automatischen Übersetzungsprogrammen und Silbentrennungsalgorithmen diese Mehrwertinformation der angegebenen Sprache mitzugeben, nicht zündet.
+
+> Damit ist wohl endgültig klar, dass der am meisten verwendeten Suchmaschine jegliche Sprachauszeichnung schnurzegal ist. Allgemeine Aussagen wie, Sprachauszeichnung ist auch Unterstützung für Suchmaschinen, ist eine fromme Vorstellung, die in der Praxis seit vielen Jahren nicht mal ansatzweise umgesetzt wird.
+
+Da die Screenreader die einzigen Programme sind, die die Markierung der Sprache nutzen, ist man inzwischen davon abgerückt ist, einzelne Passagen oder Worte mit Sprachattributen auszuzeichnen. Mehr dazu im (link:http://www.oliveira-online.net/wordpress/index.php/2010/06/27/screenreader-wer-braucht-sprachauszeichnung/ text: Artikel von Domingos de Oliveira).
+
+Klug in diesem Zusammenhang sind die Regeln, die die Wiener Agentur "Wienfluss" in ihren "Accessible eCommerce guidelines" aufstellen:
+
+> - Zeichnen Sie die Textsprache im HTML aus und vermeiden Sie Sprachwechsel
+> - Geben Sie Sprachinformationen für die gesamte Seite an. Z.B. LANG-Attribut im HTTP-Header oder dem HTML-Element (`<HTML>`).
+> - Vermeiden Sie unnötige Sprachwechsel und die Verwendung von fremdsprachigen Phrasen oder wenig verbreiteten Fremdwörtern bzw. Anglizismen.
+> - Schulen Sie die Shop-Redaktion in der Erstellung von Texten, die auch mit Vorlesesoftware oder geringer Sprachkompetenz verständlich sind.
+> - Geben Sie den Sprachwechsel für Seitenabschnitte über das LANG-Attribut bei einem beliebigen umgebenden HTML-Element an."
+
+Wie so häufig ist das Schulen der Redakteure und ihre Sensibilisierung für die Bedürfnisse der Benutzer ein – **wenn nicht der** – elementare Faktor für eine gute Benutzerführung.
+
+----
+Blockhead: 
+
+----
+Block:
+
+----
+Related:
+
+-inhalt/screenreader
+
+----
+Tags: W3C, Screenreader, Suchmaschinen, Sprache
+
+----
+Links:
+
+Link1:
+     Url: http://www.w3.org/TR/html401/struct/dirlang.html
+     Beschreibung: Sprachauszeichnung beim W3C
+Link2:
+	Url: http://hyperkontext.at/weblog/artikel/nur-screenreader-verarbeiten-sprachauszeichnung-in-html/
+	Beschreibung: Gerald Brozyk zur Verarbeitung von Sprachauszeichnungen durch Suchmaschinen
+Link3:
+	Url: http://www.oliveira-online.net/wordpress/index.php/2010/06/27/screenreader-wer-braucht-sprachauszeichnung/
+	Beschreibung: Domingos de Oliveira, der sich klar gegen die Auszeichnung von einzelnen Passagen ausspricht
+Link4:
+	Url:http://accessible-ecommerce.wienfluss.net/guidelines/5-internationalisierung-lokalisierung/5-2-i18n-internationalisierung-und-l10n-lokalisierung/5-2-3-zeichnen-sie-die-textsprache-im-html-aus-und-vermeiden-sie-sprachwechsel/
+	Beschreibung: Accessible eCommerce guidelines der Agentur "Wienfluss"

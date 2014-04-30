@@ -1,0 +1,21 @@
+Title: Zoom testen
+----
+Text:
+
+Einfach mal mit der Tastenkombination 'Strg +' die Zoomfunktion jedes Browsers aktivieren 
+und die Seite vergrößern.
+
+Im nächsten Schritt dann den Zoom von "Lupen-Zoom" auf "Text-Zoom" umstellen. Laufen die Texte nicht aus den Boxen heraus? Bleibt die Lesbarkeit erhalten? Sehr gut! Wenn nicht, (link: archiv/techniken/elementgroesse text: Elemente flexibel definieren).
+
+Denn nicht nur Menschen mit Sehbehinderungen möchten sich unter Umständen den Text einer Webseite vergrößern, um ihn besser lesen zu können, auch Besucher einer Webseite mit 8px großer, mittelgrauer Schrift auf hellgrauem Grund kennen dieses Bedürfnis.
+
+----
+Related:
+
+-archiv/techniken/elementgroesse
+-archiv/assistivetechnologien/bildschirmlupe
+
+----
+Tags: Quick-Tipp, CSS, Responsive Webdesign, em, Strg+, Zoom
+
+----

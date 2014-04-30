@@ -1,0 +1,60 @@
+Title: Sprungmarken
+----
+Text:
+
+Für Tastaturnutzer ist es elementar, sich nicht nur über den Sprung von Link zu Link mit der Tab-Taste durch die Inhalte zu bewegen, sondern auch sich immer wieder wiederholende Bereiche wie den Header oder die Navigation zu überspringen. Dafür sind die sogenannten "Sprungmarken" vorgesehen, Links am Anfang des Doku-ments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Zu den Klassikern gehören "Zur Navigation" und "Zum Inhalt" und diese beiden Einträge genügen schon. Wichtig ist, es an dieser Stelle nicht zu übertreiben, Listen mit vielen Sprungmarken zu allen möglichen Punkten auf der Seite sind unnötig und kontraproduktiv, bei jedem Aufruf der Seite muss nämlich zu Beginn die lange Liste der Sprungmarken überwunden werden, so dass schon fast eine Sprungmarke zum Überspringen der Sprungmarken nötig wäre.
+
+Auch die Benennung der Sprungmarken sollte möglichst kurz gehalten werden, denn "Sprungmarke direkt zu…" bei jeder Sprungmarke vorgelesen zu bekommen ist insbesondere für die Nutzer von Screenreadern enervierend. Im besten Fall sind die Sprungmarken im Quellcode vorhanden, aber durch eine negative absolute Positionierung aus dem Viewport geschoben, damit sie das optische Gesamtbild nicht stören. In dem Moment, in dem die jeweilige Sprungmarke den Fokus erhält, sollte sie deutlich sichtbar am Anfang der Seite stehen.
+
+### Zum Beispiel:
+```html
+	<ul class="skiplinks">
+		<li><a class="skip" href="#nav">Zur Navigation</a></li>
+		<li><a class="skip" href="#main">Zum Inhalt</a></li>
+	</ul>
+```
+
+### CSS-Anweisungen:
+
+```css
+.skiplinks {
+	left: -32768px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1000;
+}
+
+.skip{
+	left: -32768px;
+	position: absolute;
+	top: -32768px;
+}
+
+.skiplinks a.skip:focus,
+.skiplinks a.skip:active {
+	color:#fff;
+	background:#333;
+	border-bottom:1px #000 solid;
+	padding:10px 0;
+	text-align: center;
+	text-decoration:none;
+}
+```
+
+----
+Blockhead:
+
+----
+Block: 
+
+----
+Related:
+
+-inhalt/screenreader
+
+----
+Tags: HTML, Screenreader, Sprungmarke

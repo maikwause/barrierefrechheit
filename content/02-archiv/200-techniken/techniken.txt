@@ -1,0 +1,3 @@
+Title: Techniken
+----
+Text: Hier geht es um bestimmte Techniken, die eingesetzt werden, um die Barrierefreiheit zu verbessern.

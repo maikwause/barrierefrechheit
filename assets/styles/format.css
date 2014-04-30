@@ -1,0 +1,30 @@
+/**
+ * "Yet Another Multicolumn Layout" - YAML CSS Framework
+ *
+ * central stylesheet - layout example "flexible-columns"
+ *
+ * @copyright       Copyright 2005-2012, Dirk Jesse
+ * @license         CC-BY 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-CDL (http://www.yaml.de/license.html)
+ * @link            http://www.yaml.de
+ */
+
+/* Google Font API */
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700|Droid+Sans:700);
+@import url(http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Allerta+Stencil);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(http://fonts.googleapis.com/css?family=Comfortaa:400,700);
+
+/* import core styles | Basis-Stylesheets einbinden */
+@import url(base.css);
+
+/* import screen layout | Screen-Layout einbinden */
+@import url(navigation.css);
+@import url(forms.css);
+
+@import url(typography.css);
+@import url(screen.css);
+
+/* import print layout | Druck-Layout einbinden */
+@import url(print.css);
