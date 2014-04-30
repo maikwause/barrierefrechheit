@@ -1,0 +1,27 @@
+Title: Titel des Artikels
+----
+Text:
+Ich bin nur ein Beispieltext
+----
+Blockhead: Überschrift für den Infoblock
+
+----
+Block: Inhalt für den Infoblock
+
+----
+Related:
+
+-archiv/bereich/artikelname
+
+----
+Tags: Stichwort1, Stichwort2, Stichwort3
+
+----
+Links:
+
+Link1:
+     Url: http://www.example.org/
+     Beschreibung: Beschreibung zu Link1
+Link2:
+	Url: http://example.com
+	Beschreibung: Beschreibung zu Link2     
