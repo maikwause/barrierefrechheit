@@ -2,7 +2,7 @@
 
 Die Plattform "barrierefrechheit.de" stellt Tipps und Hinweise zur Verfügung, um eigene Anwendungen, Websites und Blogs zugänglicher zu machen. Schnell. Einfach. Konkret. Auf Deutsch.
 
-Wir haben uns vorgenommen, die Entwicklung barrierefreier Websites zuganglicher zu machen. Hierbei setzen wir auf kleine handliche Schnipsel von Code oder konkrete nachvollziehbare Tipps und hinweise.
+Wir haben uns vorgenommen, die Entwicklung barrierefreier Websites zuganglicher zu machen. Hierbei setzen wir auf kleine handliche Schnipsel von Code oder konkrete nachvollziehbare Tipps und Hinweise.
 
 
 
