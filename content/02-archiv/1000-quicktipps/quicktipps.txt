@@ -1,4 +1,4 @@
-Title: Quicktipps:
+Title: Quicktipps
 ----
 Text:
 Hier werden alle Quicktipps angezeigt.
