@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'http://beta.barrierefrechheit.de');
+c::set('url', 'http://localhost/barrierefrechheit/');
 
 
 /* 
@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-//c::set('subfolder', '');
+c::set('subfolder', 'barrierefrechheit');
 
 
 /* 
