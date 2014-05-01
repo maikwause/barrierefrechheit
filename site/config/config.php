@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', 'barrierefrechheit');
+c::set('subfolder', '');
 
 
 /* 
