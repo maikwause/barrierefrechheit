@@ -17,7 +17,7 @@
                     ?>
                     <ul class="artikeltags">
                     <?php foreach(str::split($article->tags()) as $tag): ?>
-                        <li><a href="<?php echo url('./archiv/tag;' . urlencode($tag)) ?>"><?php echo $tag ?></a></li>
+                        <li><a href="<?php echo url('./archiv/tag:' . urlencode($tag)) ?>"><?php echo $tag ?></a></li>
                     <?php endforeach ?>
                     </ul>
                 <?}?>
