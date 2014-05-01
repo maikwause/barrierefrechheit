@@ -4,7 +4,7 @@
     	  		<?php $tagcloud = tagcloud($pages->find('archiv/assistivetechnologien', 'archiv/techniken', 'archiv/beispiele', 'archiv/quicktipps'), array('children' => 'all', 'limit' => 400, 'sort' => 'name', 'sortdir' => 'asc')) ?>
 	  		<ul id="cloudtags">
 				<?php foreach($tagcloud as $tag): ?>
-  				<li><a href="<?php echo $tag->url() ?>"><?php echo $tag->name() ?> <?php echo $tag->results()?></a></li>
+  				<li><a href="<?php echo $tag->url() ?>"><?php echo $tag->name() ?> </a></li>
 				<?php endforeach ?>
 			</ul>   
 		</div>
