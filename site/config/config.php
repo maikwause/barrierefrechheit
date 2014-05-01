@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'http://localhost/barrierefrechheit/');
+c::set('url', 'http://demo.barrierefrechheit.de/');
 
 
 /* 
