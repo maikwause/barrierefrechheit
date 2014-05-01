@@ -46,15 +46,9 @@ Auch die Benennung der Sprungmarken sollte möglichst kurz gehalten werden, denn
 ```
 
 ----
-Blockhead:
-
-----
-Block: 
-
-----
 Related:
 
--inhalt/screenreader
+-archiv/assistivetechnologien/screenreader
 
 ----
 Tags: HTML, Screenreader, Sprungmarke

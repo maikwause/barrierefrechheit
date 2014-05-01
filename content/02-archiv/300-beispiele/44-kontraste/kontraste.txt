@@ -1,9 +1,12 @@
-Title: Starke Kontraste
+Title: Kontrast-Schwarz
 ----
 Text:
 Für Menschen mit Sehbehinderungen ist ein starker Kontrast unerlässlich. Er hilft, optische Bereiche klarer voneinander zu trennen, enthaltene Schrift besser zu lesen. Nicht nur Menschen mit Rot-Grün-Blindheit, sondern auch Menschen mit Lese-/Rechtschreibschwäche oder Menschen mit Lernbehinderung greifen bei Problemen mit der Lesbarkeit auf ein benutzerdefiniertes Farbschema zurück, welches im Browser hinterlegt werden kann und das – sofern die Farbangaben der Webseite mit CSS formatiert sind – die vorgegeben Farben mit Farben nach eigenem Gusto überschreibt.
 
 Eine relativ deutliche Umkehrung aller Farben ist der Bildschirmmodus "Kontrast-Schwarz" unter Windows, der mit der Tastenkombination 'ALT + Shift links + Druck' aktiviert werden kann.
+
+(image: 01.jpg alt:Kontrast-Schwarz-Bildschirm width:80%)
+<p class="caption">Screenshot einer Windows-Oberfläche im Bildschirmmodus "Kontrast-Schwarz"</p>
 
 Dieser Bildschirmmodus zeigt einen vereinfachten, invertierten, gut lesbaren Bildschirm, der übrigens auch für Notebook-Nutzer im Sonnenlicht empfohlen wird:
 
@@ -11,14 +14,13 @@ Dieser Bildschirmmodus zeigt einen vereinfachten, invertierten, gut lesbaren Bil
 
 > Unter schlechten Lichtverhältnissen werden grafische Spielereien von Windows und die eigenen Lieblingsfarben leicht zu einem Stressfaktor. Mit der simplen Tastenkombination ALT links + Umschalten links / Shift links + Druck / Print Screen wechselt man bei Bedarf zu einem simplen aber besonders gut lesbaren Darstellungsmodus für hohen Kontrast. Nach einer kurzen Bestätigung baut Windows den Bildschirm mit einem alternativen Anzeigeschema neu auf.
 
-(image: 01.jpg alt:Kontrast-Schwarz-Bildschirm)
-<p class="caption">Screenshot einer Windows-Oberfläche im Bildschirmmodus "Kontrast-Schwarz"</p>
+
 
 ----
 
 Related:
-
--inhalt/bildschirmlupe
+-archiv/quicktipps/contrastchecker
+-archiv/assistivetechnologien/bildschirmlupe
 
 ----
 Tags: Sehen, Rot-Grün, Kontrast, Kontrast-Schwarz, Farbschema, Windows

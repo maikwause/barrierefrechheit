@@ -43,15 +43,9 @@ Dies ist nicht nur in Hinsicht auf die Barrierefreiheit wichtig. Menschen mit Be
 	float: right; /
 ```
 ----
-Blockhead: 
-
-----
-Block: 
-
-----
 Related:
 
--inhalt/linearisierbarkeit
+-archiv/techniken/linearisierbarkeit
 -archiv/assistivetechnologien/bildschirmlupe
 
 ----

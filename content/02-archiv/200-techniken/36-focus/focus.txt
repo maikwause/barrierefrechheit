@@ -11,8 +11,7 @@ Tastaturnutzer sind auf einen deutlichen Fokus angewiesen. Durch die Benutzung d
 
 Ohne diese Markierung geht der Überblick schnell verloren, denn man weiß nicht mehr, auf welchem Link sich der Fokus befindet und "wo man gerade ist". Genauso sollten die Sprungmarken, die normalerweise "unsichtbar", also aus dem Viewport, (dem sichtbaren Bereich innerhalb des Browsers) geschoben formatiert sind, bei Erhalt des Fokus deutlich sichtbar innerhalb des Browserfensters (klassisch am oberen Rand) erscheinen. Da Formularelemente ebenfalls per Tab-Taste angesprungen werden, ist auch hier auf eine deutliche Markierung zu achten, die nicht nur aus einer Farbe besteht.
 
-Es ist häufig zu beobachten, dass Webentwickler die CSS-Eigenschaft 'outline' abstellen beziehungsweise auf null setzen. Unterstützt wird dieses Vorgehen durch viele sogenannte Reset-Stylesheets, die eigentlich dafür gedacht sind, die unterschiedlichen Standarddarstellung der Browser für viele Elemente auf einen Wert zurückzu-
-setzen, um unterschiedliche Darstellungen zu vermeiden. Im beliebten "reset.css" von Eric Meyer stellt sich das folgendermaßen dar:
+Es ist häufig zu beobachten, dass Webentwickler die CSS-Eigenschaft 'outline' abstellen beziehungsweise auf null setzen. Unterstützt wird dieses Vorgehen durch viele sogenannte Reset-Stylesheets, die eigentlich dafür gedacht sind, die unterschiedlichen Standarddarstellung der Browser für viele Elemente auf einen Wert zurückzusetzen, um unterschiedliche Darstellungen zu vermeiden. Im beliebten "reset.css" von Eric Meyer stellt sich das folgendermaßen dar:
 ```css
 
 html, body, div, span, applet, object, iframe ... {
@@ -35,9 +34,9 @@ Der outline-Wert wird also zu Beginn zurückgesetzt, sollte aber im Folgenden, z
 ----
 Related: 
 
--inhalt/sprungmarken
--inhalt/css
--quicktipps/outline
+-archiv/techniken/sprungmarken
+-archiv/techniken/css
+-archiv/quicktipps/outline
 
 ----
 Tags: CSS, Sprungmarke, Fokus, Tab-Taste, outline

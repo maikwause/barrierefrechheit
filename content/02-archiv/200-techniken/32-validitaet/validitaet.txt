@@ -23,7 +23,7 @@ Related:
 -inhalt/screenreader
 
 ----
-Tags: HTML, Screenreader
+Tags: HTML, Screenreader, W3C
 
 ----
 Links:
