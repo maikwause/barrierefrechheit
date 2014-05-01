@@ -31,7 +31,7 @@
             <article>
                 <a href="<?php echo $article->parent()->url() ?>"><?php echo $article->parent()->title() ?></a>
                 <h4><a href="<?php echo $article->url() ?>"><?php echo html($article->title()) ?></a></h4>
-                <p><?php echo excerpt($article->text(), 250) ?> <a href="<?php echo $article->url() ?>">Read more…</a></p>
+                <p><?php echo excerpt($article->text(), 250) ?> <a href="<?php echo $article->url() ?>">Mehr zu <?php echo html($article->title()) ?>…</a></p>
             </article>
             <?
             endforeach;
