@@ -1,7 +1,7 @@
 Title: Sprachauszeichnung – auch beim Sprachwechsel
 ----
 Text:
-Die Auszeichnung der Sprache eines HTML-Dokuments empfiehlt nicht nur das W3C seit der HTML-Version 4.01, sondern es empfiehlt sich aus grundsätzlichen Überlegungen. Traditionell wird vom Webseitenersteller erwartet, dem ganzen Dokument über das 'lang'-Attribut im html-Tag (`<html lang="de">`) eine Sprache zuzuweisen und einzelne, anderssprachliche Passagen entsprechend ihrer Ursprungssprache entsprechend zu kennzeichnen. 
+Die Auszeichnung der Sprache eines HTML-Dokuments empfiehlt nicht nur das W3C seit der HTML-Version 4.01, sondern es empfiehlt sich aus grundsätzlichen Überlegungen. Traditionell wird vom Webseitenersteller erwartet, dem ganzen Dokument über das 'lang'-Attribut im html-Tag (`<html lang="de">`) eine Sprache zuzuweisen und einzelne, anderssprachliche Passagen entsprechend ihrer Ursprungssprache entsprechend zu kennzeichnen.
 
 ### Beispiel:
 ```html
@@ -28,7 +28,7 @@ Klug in diesem Zusammenhang sind die Regeln, die die Wiener Agentur "Wienfluss" 
 Wie so häufig ist das Schulen der Redakteure und ihre Sensibilisierung für die Bedürfnisse der Benutzer ein – **wenn nicht der** – elementare Faktor für eine gute Benutzerführung.
 
 ----
-Blockhead: 
+Blockhead:
 
 ----
 Block:
@@ -45,8 +45,8 @@ Tags: W3C, Screenreader, Suchmaschinen, Sprache
 Links:
 
 Link1:
-     Url: http://www.w3.org/TR/html401/struct/dirlang.html
-     Beschreibung: Sprachauszeichnung beim W3C
+	Url: http://www.w3.org/TR/html401/struct/dirlang.html
+	Beschreibung: Sprachauszeichnung beim W3C
 Link2:
 	Url: http://hyperkontext.at/weblog/artikel/nur-screenreader-verarbeiten-sprachauszeichnung-in-html/
 	Beschreibung: Gerald Brozyk zur Verarbeitung von Sprachauszeichnungen durch Suchmaschinen

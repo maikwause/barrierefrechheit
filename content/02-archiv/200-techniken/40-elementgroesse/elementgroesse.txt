@@ -33,7 +33,7 @@ Dies ist nicht nur in Hinsicht auf die Barrierefreiheit wichtig. Menschen mit Be
 		margin: 0 auto; /* Automatisch zentriert */
 		max-width: 72em; /* Maximale Breite in em */
 	}
-	
+
 	.b66 {
 		width: 66.666%; /* Hauptspalte 2/3 der Breite */
 		float: left; /* aus dem Dokumentfluss nehmen, links schweben lassen */
@@ -54,13 +54,13 @@ Tags: CSS, Strg+, em, Responsive Webdesign, Zoom
 ----
 Links:
 
-Link1: 
-     Url: http://www.codinghorror.com/blog/2009/01/the-two-types-of-browser-zoom.html
+Link1:
+	Url: http://www.codinghorror.com/blog/2009/01/the-two-types-of-browser-zoom.html
 
 Link2:
-	Url: http://www.w3.org/TR/css3-values/#font-relative-lengths 
+	Url: http://www.w3.org/TR/css3-values/#font-relative-lengths
 	Beschreibung: "Aside from ‘rem’ (which refers to the font-size of the root element), the font-relative lengths refer to the computed font metrics of the element on which they are used. The exception is when they occur in the value of the ‘font-size’ property itself, in which case they refer to the computed font metrics of the parent element (or the computed font metrics corresponding to the initial values of the ‘font’ property, if the element has no parent).
 
 Link3:
 	Url: http://www.alistapart.com/articles/responsive-web-design/
-	Beschreibung: "Responsive Webdesign" sorgt für eine angepasste Darstellung der Inhalte in Abhängigkeit der sichtbaren Bildschirmgröße, insbesondere (aber nicht nur) auf mobilen Endgeräten.	
+	Beschreibung: "Responsive Webdesign" sorgt für eine angepasste Darstellung der Inhalte in Abhängigkeit der sichtbaren Bildschirmgröße, insbesondere (aber nicht nur) auf mobilen Endgeräten.

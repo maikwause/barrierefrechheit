@@ -1,22 +1,22 @@
 Title: Bildschirmlupe
 ----
-Text: 
+Text:
 
 Eine Bildschirmlupe ist eine Software, die von sehbehinderten Menschen verwendet wird, um die Darstellung des Bildschirms stark zu vergrößern.
 
-(image: 01.jpg alt: Anzeige des stark vergrößerten Bildschirminhaltsdurch die Bildschirmlupenvergrößerungssoftware title:0)
+(image: 01.jpg alt: Anzeige des stark vergrößerten Bildschirminhalts durch die Bildschirmlupenvergrößerungssoftware title:0)
 <p class="caption">Bildausschnitt Bildschirmlupe</p>
 
-Hierbei kann man die Vergrößerung bis zum Faktor "36-fach" erhöhen, der Unterschied ist also erheblich. Dadurch wird immer nur ein kleiner Ausschnitt der angezeigten Website sichtbar, dieser jedoch beinahe bildschirmfüllend. 
+Hierbei kann man die Vergrößerung bis zum Faktor "36-fach" erhöhen, der Unterschied ist also erheblich. Dadurch wird immer nur ein kleiner Ausschnitt der angezeigten Website sichtbar, dieser jedoch beinahe bildschirmfüllend.
 
 Dank dieser großen Vergrößerung ist es auch stark sehbehinderten Menschen möglich, sich – Stück für Stück – auf Webseiten oder in Office-Dokumenten zu orientieren. Problematisch ist hierbei, dass (der Technik entsprechend) aufgrund des relativ kleinen Ausschnitts, der in Vergrößerung gezeigt wird, Scrollbalken entstehen. Wenn die gerade besuchte Website jetzt selbst noch eigene horizontale Scrollbalken hat, ist es doppelt schwer und aufwendig, die besuchte Website zu benutzen.
 
 ----
-Blockhead: Scrollbalken 
+Blockhead: Scrollbalken
 ----
 Block: sind die Schieberegler zur Veränderung der Position innerhalb des Dokuments oder der Website, die entstehen, wenn der angezeigte Ausschnitt größer ist als das Fenster, in dem er angezeigt wird.
 ----
-Related: 
+Related:
 -archiv/beispiele/keine-festen-breiten
 -archiv/techniken/elementgroesse
 
@@ -26,5 +26,5 @@ Tags: Sehen, Assistive Technologie
 Links:
 
 Link1:
-	Url:http://alternativeto.net/software/point-n-see/ 
+	Url:http://alternativeto.net/software/point-n-see/
 

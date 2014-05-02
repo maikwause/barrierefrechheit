@@ -2,7 +2,7 @@ Title: Inhalte linearisieren
 ----
 Text:
 
-Inhalte sollten immer so strukturiert werden, dass sie linearisiert ewwerden können. Das bedeutet, dass es ermöglicht wird, die Inhalte der einzelnen Webseite in einer Reihe nacheinander darzustellen. Dies ist besonders wichtig für Nutzer, die nicht in der Lage sind, Inhalte in einem Zug zu erfassen und sich sukzessive durch die Inhalte arbeiten müssen, wie zum Beispiel Braillezeilennutzer.
+Inhalte sollten immer so strukturiert werden, dass sie linearisiert werden können. Das bedeutet, dass es ermöglicht wird, die Inhalte der einzelnen Webseite in einer Reihe nacheinander darzustellen. Dies ist besonders wichtig für Nutzer, die nicht in der Lage sind, Inhalte in einem Zug zu erfassen und sich sukzessive durch die Inhalte arbeiten müssen, wie zum Beispiel Braillezeilennutzer.
 
 Problematisch wird es z. B. wenn Tabellen zur Layoutgestaltung verwendet werden, denn Hilfsmittel wie Screenreader lesen Tabelleninhalte von links nach rechts der Reihe nach vor, also erste Reihe (`<tr>`), erste Zelle (`<td>`), dann zweite Zelle usw., dann die zweite Zeile erste Zelle usw. So werden Zusammenhänge, die optisch vorhanden sind, in der Wiedergabe zerrissen; wenn mehrfach verschachtelte Tabellen zum Einsatz kommen, geht der Überblick gänzlich verloren. Schmuckzellen oder leere Tabellenzellen, die nur der Abstandsgewinnung in der optischen Darstellung dienen, steigern diesen Effekt weiterhin.
 
@@ -26,7 +26,7 @@ Unter Experten gibt es bis heute Diskussionen um den richtigen Weg der Auflistun
 
 
 ----
-Related: 
+Related:
 
 -archiv/assistivetechnologien/braillezeile
 -archiv/beispiele/brailleschrift

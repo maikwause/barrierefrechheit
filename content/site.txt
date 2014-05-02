@@ -1,9 +1,9 @@
 Title: Barrierefrechheit
 ----
-Author: 
+Author:
 ----
 Description: uneingeschränkt entwickeln
 ----
-Keywords: 
+Keywords:
 ----
-Copyright: Made with (link: http://getkirby.com text: kirby) and Love © 2009-(date: Year) (link: http://mcwiwa.de text: Maik Wagner)
+Copyright: Made with (link: http://getkirby.com text: kirby) and love © 2009-(date: Year) (link: http://mcwiwa.de text: Maik Wagner)

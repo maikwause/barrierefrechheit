@@ -1,12 +1,12 @@
 Title: Screenreader
 ----
 Text:
-Blinde Menschen verwenden Screenreader oder Braillezeilen. Ein Screenreader ist eine Software die den kompletten Bildschirminhalt erfaßt und den Inhalt über die Soundkarte ausgibt (vorliest).
+Blinde Menschen verwenden Screenreader oder Braillezeilen. Ein Screenreader ist eine Software die den kompletten Bildschirminhalt erfasst und den Inhalt über die Soundkarte ausgibt (vorliest).
 
 (youtube: http://www.youtube.com/watch?v=qiKWTTtGq7U)
 <p class="caption">Videoeinführung in das Screenreaderprogramm "JAWS"</p>
 
-Da diese Software sehr konsequent ist und alle Elemente einer Website, inclusive verwendeten Browser und Titel des Dokuments vorliest, kann das ein sehr ermüdendes Unterfangen werden. Deswegen sind in allen Screenreader-Programmen Tastenkombinationen vorgesehen, mit denen man sich einen Überblick über das vorzulesende Dokument verschaffen kann. So kann man sich etwa eine Übersicht über die Überschriften eines Dokuments oder einer Website ausgeben lassen; das ist in etwa vergleichbar mit dem Überfliegen der Überschriften einer Tageszeitungsseite. 
+Da diese Software sehr konsequent ist und alle Elemente einer Website, inklusive verwendeten Browser und Titel des Dokuments vorliest, kann das ein sehr ermüdendes Unterfangen werden. Deswegen sind in allen Screenreader-Programmen Tastenkombinationen vorgesehen, mit denen man sich einen Überblick über das vorzulesende Dokument verschaffen kann. So kann man sich etwa eine Übersicht über die Überschriften eines Dokuments oder einer Website ausgeben lassen; das ist in etwa vergleichbar mit dem Überfliegen der Überschriften einer Tageszeitungsseite.
 
 Mit einer weiteren Tastenkombination kann man direkt zu dem Bereich springen, der einen interessiert. Somit können sich blinde Menschen mit den entsprechenden Tastenkombinationen einen Überblick über die Seite verschaffen, sich auf der Seite orientieren oder sich den gesamten Inhalt vorlesen lassen.
 ----
@@ -23,4 +23,4 @@ Tags: Sehen, Assistive Technologie, Screenreader, Beispiel
 ----
 Links:
 Link1:
-		Url: http://www.youtube.com/watch?v=qiKWTTtGq7U
+	Url: http://www.youtube.com/watch?v=qiKWTTtGq7U
