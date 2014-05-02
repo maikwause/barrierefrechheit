@@ -14,12 +14,12 @@ Der Freeware Video-Konverter "(link: http://freemake.com text: freemake.com)" bi
 ### Automatische Untertitel bei Youtube
 Youtube selbst bietet eine automatisierte Form von Untertiteln (Closed Captions) an, "automatic caption" und "automatic timing".
 
-Automatic caption (Automatische Untertitel) basieren auf dem Algorithmus von Google-Voice, mit dem eine maschinell erzeugte Transkription des Gesagten zur Laufzeit des Videos erzeugt und als Untertitel angezeigt wird. Diese automatischen Untertitel können auch in einer anderen Sprache angezeigt werden. Wie bei automa-tisch erzeugten Übersetzungen häufig der Fall, ist der generierte Text nicht perfekt, aber wenn man hörgeschädigt ist oder die Original-Sprache nicht beherrscht, bekommt man zumindest eine Idee, worum es geht.
+Automatic caption (Automatische Untertitel) basieren auf dem Algorithmus von Google-Voice, mit dem eine maschinell erzeugte Transkription des Gesagten zur Laufzeit des Videos erzeugt und als Untertitel angezeigt wird. Diese automatischen Untertitel können auch in einer anderen Sprache angezeigt werden. Wie bei automatisch erzeugten Übersetzungen häufig der Fall, ist der generierte Text nicht perfekt, aber wenn man hörgeschädigt ist oder die Original-Sprache nicht beherrscht, bekommt man zumindest eine Idee, worum es geht.
 
 Automatic Timing (Automatische Zeitsetzung) hilft den Untertitel-Erstellern, denn das aufwendige Kodieren der Zeitstempel zum Ein- und Ausblenden der Untertitel entfällt. Wenn ein Transkript als Text vorliegt, erkennt der Sprache-zu-Text-Algorithmus von Google automatisch, wann welches Wort gesagt wird (bisher nur auf English verfügbar.) Ist die Kodierung durch Google abgeschlossen, erscheinen die Untertitel automatisch bei Youtube; die erzeugte Datei mit Zeitcodes kann aber auch zum Bearbeiten oder zur Weiterverwendung heruntergeladen werden.
 
 ----
-Blockhead: 
+Blockhead:
 
 ----
 Block:
@@ -43,4 +43,4 @@ Link2:
 	Beschreibung: Anleitungsvideo zu Subtitle Workshop
 Link3:
 	Url: http://www.freemake.com/de/how_to/how_to_add_subtitles_to_a_movie
-	Beschreibung: Anleitung zu freemake.com	
+	Beschreibung: Anleitung zu freemake.com

@@ -7,14 +7,14 @@ Die Plattform "barrierefrechheit.de" stellt Tipps und Hinweise zur Verfügung, u
 Man kann davon ausgehen, dass kein Webentwickler mit Absicht Barrieren aufbaut, um bestimmte Nutzer von seinem Webangebot auszuschließen. Viel eher wird aus Unkenntnis eine Chance auf gute Zugänglichkeit vertan.
 
 
-Barrierefrechheit hilft Entwicklern, ihre Websites und Anwendungen barrierefreier zu machen. Es ist eien Sammlung von konkreten Beispielen Tipps und Beispielen. Für jedes Problem gibt es mindestens eine Lösung und da man die Wahl hat, sollte man einfach die zugänglichere Lösung wählen. Diese Sammlung will dabei helfen die richtige Wahl zu treffen und ein Stück Bewußtsein bei Entwicklern zu wecken, denn Barrierefreiheit ist zu allererst Bewußtsein.
+Barrierefrechheit hilft Entwicklern, ihre Websites und Anwendungen barrierefreier zu machen. Es ist eine Sammlung von konkreten Tipps und Beispielen. Für jedes Problem gibt es mindestens eine Lösung, und da man die Wahl hat, sollte man einfach die zugänglichere Lösung wählen. Diese Sammlung will dabei helfen, die richtige Wahl zu treffen und ein Stück Bewusstsein bei Entwicklern zu wecken. Denn Barrierefreiheit ist zuallererst Bewusstsein.
 
-Jeder der möchte kann diskret etwas manchschlagen oder sich einen Überblick verschaffen, wer Interesse hat, mahr zu erfahren, kann sich über tiefergehende Artikel und weiterführende Links tiefer in das Thema einarbeiten.
+Jeder der möchte, kann diskret etwas nachschlagen oder sich einen Überblick verschaffen. Wer Interesse hat, mehr zu erfahren, kann sich über tiefer gehende Artikel und weiterführende Links in das Thema einarbeiten.
 
 Das Projekt ist kollaborativ aufgebaut, jeder kann und soll mitmachen und etwas beitragen. Der Inhalt liegt bei (link: https://github.com/maikwause/barrierefrechheit/ text:Github), dort kann man Fehler melden und eigene Beiträge bereitstellen. Wer keinen GiHub-Account hat, kann die //ToDo Link Artikel-Vorlage herunterladen, ausfüllen und an (email: post@barrierefrechheit.de) zurücksenden.
 
 #### Disclaimer
 
-Barrierefreiheit ist ist ein umfangreiches und durchaus komplexes Feld. Nicht immer ist es mit einer einfachen Lösung getan, manchmal baut die ideale Lösung für eine bestimmte Behinderungsform Barrieren für einen anderen Benutzer auf. Mit dieser Sammlung an Notizen und Snippets ist dieses Feld sicher nicht vollständig barbeitet, der Teufel steckt oft im Detail. Meine Idee war es, trotzdem den Versuch zu machen, Barrierefreiheit in kleine Häppchen aufzuteilen, um im ersten Schritt die Scheu zu nehmen und nutzbaren Code zur Verfügung zu stellen, der die Zugänglichkeit verbessert. Vielleicht gelingt es ja, die Barrieren zu mehr Barrierefreiheit ein wenig einzureißen und die Barrierefreiheit in den  Entwicklungsprozess direkt mit einzuschmelzen.
+Barrierefreiheit ist ist ein umfangreiches und durchaus komplexes Feld. Nicht immer ist es mit einer einfachen Lösung getan, manchmal baut die ideale Lösung für eine bestimmte Behinderungsform Barrieren für einen anderen Benutzer auf. Mit dieser Sammlung an Notizen und Snippets ist dieses Feld sicher nicht vollständig bearbeitet, der Teufel steckt oft im Detail. Meine Idee war es, trotzdem den Versuch zu machen, Barrierefreiheit in kleine Häppchen aufzuteilen, um im ersten Schritt die Scheu zu nehmen und nutzbaren Code zur Verfügung zu stellen, der die Zugänglichkeit verbessert. Vielleicht gelingt es ja, die Barrieren zu mehr Barrierefreiheit ein wenig einzureißen und die Barrierefreiheit unmittelbar mit dem Entwicklungsprozess zu verschmelzen.
 
-Gerade deswegen freue ich mich über Hinweise und Ergänzungen. 
+Gerade deswegen freue ich mich über Hinweise und Ergänzungen.

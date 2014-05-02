@@ -1,7 +1,7 @@
 Title: Brailleschrift
 ----
 Text:
-Traditionell werden Braille-Buchstaben durch ein definiertes (6-Bit)- Muster von Erhebungen im Papier dargestellt.
+Traditionell werden Braille-Buchstaben durch ein definiertes (6-Bit)-Muster von Erhebungen im Papier dargestellt.
 
 (image: 02.jpg alt: Abbildung des Braille-Alphabets im Brockhaus von 1898 width:80%)
 
@@ -11,7 +11,7 @@ Traditionell werden Braille-Buchstaben durch ein definiertes (6-Bit)- Muster von
 <p class="caption">Quelle: Brockhaus' Konversations-Lexikonvon 1898, S. 407.</p>
 
 (image: 03.jpg alt: Weinetikett mit Schwarzschrift und Brailletext width:80%)
-<p class="caption">Brailleschrift auf einem Weinflaschenetikett <br /></p>
+<p class="caption">Brailleschrift auf einem Weinflaschenetikett <br></p>
 
 Mit diesem System der Erhebungen werden bis heute Texte, Bücher und Musiknoten hergestellt, am Computer kann eine Zeile des Inhalts des Bildschirms in diesen Buchstaben durch elektrisches Anheben einzelner Punkte der Zeile in Brailleschrift dargestellt werden. So können auch blinde Menschen, Zeile für Zeile (!) eine Webseite auf dieser Braillezeile lesen.
 ----

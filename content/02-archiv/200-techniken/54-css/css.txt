@@ -9,7 +9,7 @@ im Kopfbereich jeder HTML-Datei einzubinden. So fungiert eine einzelne Datei als
 
 Durch CSS können Inhalt und Design voneinander getrennt werden, per CSS wird die graphische Gestaltung auf das klug und semantisch strukturierte HTML-Gerüst aufgesetzt, durch überlegten Einsatz werden Ort und Form der Darstellung einzelner Seitenbereiche von der Strukturebene gelöst und rein über die Präsentationsebene abgewickelt.
 
-Es ist möglich per CSS verschiedene Ausgabemedien wie Bildschirm oder Druckversion anzusprechen. Das erlaubt die gezielte Formatierung der Inhalte für eine Druckdarstellung, ebenso kann man in Abhängigkeit von der Bildschirmgröße die Formatierung der Inhalte steuern (mediaqueries).
+Es ist möglich per CSS verschiedene Ausgabemedien wie Bildschirm oder Druckversion anzusprechen. Das erlaubt die gezielte Formatierung der Inhalte für eine Druckdarstellung, ebenso kann man in Abhängigkeit von der Bildschirmgröße die Formatierung der Inhalte steuern (media queries).
 
 So sähe der Aufruf einer Sammlung zusätzlicher Formatierungsanweisungen für die Druckdarstellung folgendermaßen aus:
 
@@ -23,7 +23,7 @@ Selektor{
 }
 ```
 
-beschrieben. Fast alle CSS-Eigenschaften haben einen Initialwert, der vom Browser festgelegt wird und von Browser zu Browser unterschiedlich ist. Die sogenannten Reset-Stylesheets sorgen dafür, dass diese Initialwerte auf gleiche Abstände und Maße zurückgesetzt werden und der Websitersteller diese Werte nach eigenem Gestal-tungswünschen anpassen und erweitern kann.
+beschrieben. Fast alle CSS-Eigenschaften haben einen Initialwert, der vom Browser festgelegt wird und von Browser zu Browser unterschiedlich ist. Die sogenannten Reset-Stylesheets sorgen dafür, dass diese Initialwerte auf gleiche Abstände und Maße zurückgesetzt werden und der Website-Ersteller diese Werte nach eigenem Gestaltungswünschen anpassen und erweitern kann.
 
 Die angegebenen Werte innerhalb der CSS-Datei werden (vergleichbar mit einer Kaskade, daher der Name "Cascading Style Sheet") vom Eltern- zum Kindelement weitervererbt. Wird per
 
@@ -39,7 +39,7 @@ Grundsätzlich kann einem Element auch direkt, über das 'style'-Attribut eine E
 
 Dies ist aber unvorteilhaft, da dadurch die Idee, alle Gestaltung über eine zentrale Datei zu steuern ad absurdum geführt wird. Dieses einzigartige Element wird keine der im zentralen Dokument vorgenommenen Änderungen übernehmen, denn die sogenannte 'inline'-Formatierung hat die höchste Spezifität innerhalb der CSS-Regeln, hat sozusagen das letzte Wort, welche Formatierung angewendet wird.
 ----
-Blockhead: 
+Blockhead:
 
 ----
 Block:
@@ -56,4 +56,4 @@ Tags: CSS, reset-Stylesheet
 Links:
 
 Link1:
-     Url: http://www.w3.org/
+	Url: http://www.w3.org/

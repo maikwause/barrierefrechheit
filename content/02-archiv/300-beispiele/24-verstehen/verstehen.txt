@@ -1,7 +1,7 @@
 Title: Verstehen
 ----
 Text:
-Menschen mit kognitiven Einschränkungen (oder wie sie sich selbst nennen: Men-schen mit Lernbehinderungen) haben Probleme, Inhalte von Websites zu erfassen. Komplexere Texte bleiben ihnen unverständlich. Ebenso ist es für sie schwierig, sich auf einen bestimmten Bereich innerhalb der Webseite zu konzentrieren, die Aufmerksamkeit bleibt nicht erhalten, die Konzentration geht verloren, wenn neben dem zu lesenden Block noch viele weitere (bunte) Elemente wie Werbung oder viele Teaserboxen blinkend oder leuchtend um Aufmerksamkeit buhlen.
+Menschen mit kognitiven Einschränkungen (oder wie sie sich selbst nennen: Menschen mit Lernbehinderungen) haben Probleme, Inhalte von Websites zu erfassen. Komplexere Texte bleiben ihnen unverständlich. Ebenso ist es für sie schwierig, sich auf einen bestimmten Bereich innerhalb der Webseite zu konzentrieren, die Aufmerksamkeit bleibt nicht erhalten, die Konzentration geht verloren, wenn neben dem zu lesenden Block noch viele weitere (bunte) Elemente wie Werbung oder viele Teaserboxen blinkend oder leuchtend um Aufmerksamkeit buhlen.
 
 Hier kommen keine technischen Hilfsmittel zum Einsatz, Menschen mit Lernbehinderungen hilft der Einsatz von "leichter Sprache"
 

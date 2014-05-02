@@ -7,15 +7,15 @@ HTML-Quellcode unterliegt, wie alle strukturellen Auszeichnungssprachen, gewisse
 - `<li>…</li>` ein Listenelement,
 - 	etc.
 
-Websiteersteller sollten darauf achten, die einzelnen Elemente einer Seite semantisch (entsprechend ihrer Bedeutung) auszuzeichnen, denn Hilfsmittel wie zum Beispiel Screenreader lesen diese Elemente aus und bieten Übersichten der Überschriften direkt zum Ansteuern an, um Blinden z. B. einen Überblick über die Inhalte einer Webseite zu geben.
+Website-Ersteller sollten darauf achten, die einzelnen Elemente einer Seite semantisch (entsprechend ihrer Bedeutung) auszuzeichnen, denn Hilfsmittel wie zum Beispiel Screenreader lesen diese Elemente aus und bieten Übersichten der Überschriften direkt zum Ansteuern an, um Blinden z. B. einen Überblick über die Inhalte einer Webseite zu geben.
 
 //ToDo Bild Liste de Elemente
 
-Hilfsmittel dieser Art können Links, Überschriften, Sprungmarken und ähnliches allerdings nur richtig auslesen, wenn diese Elemente entsprechend ihrer Bedeutung (semantisch) formatiert sind. Formatierungen à la `<span class="h1">` für Textabschnitte, die eigentlich Überschriften sind, fallen durch das Raster und werden nicht mit angezeigt. Das "fett und große Schrift", das mit dieser Formatierung definiert wurde, interpretiert das Bewusstsein der Sehenden automatisch als Überschrift, weil sie es von den Druckmedien so kennen; blinden Nutzern geht diese In-formation allerdings verloren.
+Hilfsmittel dieser Art können Links, Überschriften, Sprungmarken und ähnliches allerdings nur richtig auslesen, wenn diese Elemente entsprechend ihrer Bedeutung (semantisch) formatiert sind. Formatierungen à la `<span class="h1">` für Textabschnitte, die eigentlich Überschriften sind, fallen durch das Raster und werden nicht mit angezeigt. Das "fett und große Schrift", das mit dieser Formatierung definiert wurde, interpretiert das Bewusstsein der Sehenden automatisch als Überschrift, weil sie es von den Druckmedien so kennen; blinden Nutzern geht diese Information allerdings verloren.
 
 Empfehlenswert ist in diesem Zusammenhang auch das Hinzufügen von "unsichtbaren", also verborgen formatierten Überschriften zu Beginn der jeweiligen relevanten Abschnitte, sodass die Hilfsmittel-Nutzer 'Navigation', 'Inhalt', 'Seitenbereich' direkt erkennen und ansteuern können.
 
-Ähnlich verhält es sich mit Absätzen, den mit `<p>…</p>` ausgezeichneten Abschnitten: Mit einer Tastenkombination können Benutzer von Screenreadern von Absatz zu Absatz springen. Dies gelingt natürlich nur, wenn auch Absätze als solche deklariert sind; Menschen ohne visuelle Einschränkung können Texte aber auch viel besser lesen, wenn diese Absätze enthalten, die klassische "Bleiwüste" wird vermieden. 
+Ähnlich verhält es sich mit Absätzen, den mit `<p>…</p>` ausgezeichneten Abschnitten: Mit einer Tastenkombination können Benutzer von Screenreadern von Absatz zu Absatz springen. Dies gelingt natürlich nur, wenn auch Absätze als solche deklariert sind; Menschen ohne visuelle Einschränkung können Texte aber auch viel besser lesen, wenn diese Absätze enthalten, die klassische "Bleiwüste" wird vermieden.
 
 Mit allen anderen Elementen im HTML-Code verhält es sich ähnlich: Buttons sind nur erkenn- und bedienbar, wenn sie auch als Buttons semantisch ausgezeichnet sind, optisch aufwendige Links, die ihre Beschriftung als Hintergrundbild tragen und nur so aussehen, als wären sie Buttons, funktionieren hier nicht. Neben den faktischen Notwendigkeiten gehört es einfach zum guten Handwerk, HTML-Elemente richtig HTML-Elemente richtig auszuzeichnen und sich an die Regeln der Code-Erstellung zu halten.
 
@@ -25,7 +25,7 @@ Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch
 Blockhead: Sprungmarken
 
 ----
-Block: Sprungmarken sind Links am Anfang des Dokuments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Verwandter Artikel "(link: inhalt/sprungmarken text:Sprungmarken)" 
+Block: Sprungmarken sind Links am Anfang des Dokuments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Verwandter Artikel "(link: inhalt/sprungmarken text:Sprungmarken)"
 
 ----
 Related:
