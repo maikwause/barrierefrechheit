@@ -4,4 +4,4 @@ Text:
 
 Diese Seite existiert leider nicht. Vielleicht hilft dir die Suche weiter.
 
-Solltest Du über einen internen Verweis hier gelandet sein, freuen wir uns über eine Meldung bei (link: https://github.com/maikwause/barrierefrechheit/issues text: Guthub)
+Solltest Du über einen internen Verweis hier gelandet sein, freuen wir uns über eine Meldung bei (link: https://github.com/maikwause/barrierefrechheit/issues text: Github)
