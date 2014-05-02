@@ -1,7 +1,7 @@
 Title: Schnell mal die Kontraste prüfen
 ----
 Text:
-Für gute Lesbarkeit ist ein ausreichender Kontrast maßgebend. Schon zu Beginn der Projektentwicklung kann schon überprüft werden, ob ausreichender Kontrast vorhanden ist. 
+Für gute Lesbarkeit ist ein ausreichender Kontrast maßgebend. Schon zu Beginn der Projektentwicklung kann  überprüft werden, ob ausreichender Kontrast vorhanden ist. 
 
 Mit diversen Online-Tools kann man schnell und einfach durch Eingabe der Vorder- und Hintergrundfarbe das entsprechende Kontrastverhältnis prüfen.
 

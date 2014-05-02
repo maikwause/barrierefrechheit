@@ -14,7 +14,7 @@ Block:
 
 ----
 Related: 
- -inhalt/screenreader-ios
+-archiv/assistivetechnologien/screenreader-ios
 
 ----
 Tags: Sehen, Screenreader, Quick-Tipp
