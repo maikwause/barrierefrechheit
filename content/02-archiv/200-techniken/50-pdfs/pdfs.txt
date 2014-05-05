@@ -16,15 +16,9 @@ Auch in InDesign ist die Grundlage eine gute Dokumentstruktur, Absatz- und Zeich
 Etwas älter, aber sehr umfangreich, gerade im Bereich der Prüfung des fertigen Dokuments, ist die (link: http://www.lfu.bayern.de/abfall/ausschreibungen/doc/anleitung_pdf_barrierefrei_indesign.pdf text: "Anleitung zur Erstellung barrierefreier PDF-Dokumente aus Adobe InDesign") des Bayerisches Staatsministeriums für Umwelt, Gesundheit und Verbraucherschutz.
 
 ----
-Blockhead:
-
-----
-Block:
-
-----
 Related:
 
--inhalt/screenreader
+-archiv/assistivetechnologien/screenreader
 
 ----
 Tags: PDF, BITV, WCAG, Word, InDesign

@@ -17,21 +17,21 @@ Empfehlenswert ist in diesem Zusammenhang auch das Hinzufügen von "unsichtbaren
 
 Ähnlich verhält es sich mit Absätzen, den mit `<p>…</p>` ausgezeichneten Abschnitten: Mit einer Tastenkombination können Benutzer von Screenreadern von Absatz zu Absatz springen. Dies gelingt natürlich nur, wenn auch Absätze als solche deklariert sind; Menschen ohne visuelle Einschränkung können Texte aber auch viel besser lesen, wenn diese Absätze enthalten, die klassische "Bleiwüste" wird vermieden.
 
-Mit allen anderen Elementen im HTML-Code verhält es sich ähnlich: Buttons sind nur erkenn- und bedienbar, wenn sie auch als Buttons semantisch ausgezeichnet sind, optisch aufwendige Links, die ihre Beschriftung als Hintergrundbild tragen und nur so aussehen, als wären sie Buttons, funktionieren hier nicht. Neben den faktischen Notwendigkeiten gehört es einfach zum guten Handwerk, HTML-Elemente richtig HTML-Elemente richtig auszuzeichnen und sich an die Regeln der Code-Erstellung zu halten.
+Mit allen anderen Elementen im HTML-Code verhält es sich ähnlich: Buttons sind nur erkenn- und bedienbar, wenn sie auch als Buttons semantisch ausgezeichnet sind. Optisch aufwendige Links, die ihre Beschriftung als Hintergrundbild tragen und nur so aussehen, als wären sie Buttons, funktionieren hier nicht. Neben den faktischen Notwendigkeiten gehört es einfach zum guten Handwerk, HTML-Elemente richtig auszuzeichnen und sich an die Regeln der Code-Erstellung zu halten.
 
-Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch Suchmaschinen sind sozusagen "blind" und orientieren sich beim Indizieren der Inhalte einer Webseite rein an den semantischen Strukturen; eine semantisch ausgezeichnete Überschrift wird bei der Anzeige der Suchergebnisse höher gewichtet als ein gleich-lautender <span>-Abschnitt.
+Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch Suchmaschinen sind sozusagen "blind" und orientieren sich beim Indizieren der Inhalte einer Webseite rein an den semantischen Strukturen; eine semantisch ausgezeichnete Überschrift wird bei der Anzeige der Suchergebnisse höher gewichtet als ein gleichlautender `<span>`-Abschnitt.
 
 ----
 Blockhead: Sprungmarken
 
 ----
-Block: Sprungmarken sind Links am Anfang des Dokuments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Verwandter Artikel "(link: inhalt/sprungmarken text:Sprungmarken)"
+Block: Sprungmarken sind Links am Anfang des Dokuments, die einen direkten Sprung zu bestimmten Stellen innerhalb des Dokuments ermöglichen. Verwandter Artikel "(link: archiv/techniken/sprungmarken text:Sprungmarken)"
 
 ----
 Related:
 
--inhalt/sprungmarken
--inhalt/screenreader
+-archiv/techniken/sprungmarken
+-archiv/assisbtivetechnologien/screenreader
 
 ----
 Tags: Semantik, HTML, Screenreader, Handwerk, Überschriften

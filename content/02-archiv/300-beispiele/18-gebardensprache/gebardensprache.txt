@@ -5,20 +5,22 @@ Menschen, die taub oder gehörlos sind, muss man eine Alternative zu akustischen
 
 Gehörlose Menschen können von Geburt an nicht hören, zu den Tauben gehören klassischerweise Spätertaubte, also Menschen, die schon mal hören konnten, den Hörsinn aber nach dem Spracherwerb verloren. 
 
-Diese etwas spitzfindig wirkende Unterscheidung basiert darauf, dass Menschen, die schon mal hören konnten, sich eher der hörenden Welt zugehörig fühlen, mit Schriftsprache umgehen können und mit dem laut- und schriftsprachlichen Denken umgehen können. Menschen, die gehörlos sind, leben eher in der Welt der Gehörlosen mit eigener (Gebärden-) Sprache, Kultur und Tradition. Zum Unterschied zwischen 'taub' und 'gehörlos' siehe auch <http://www.gehoerlosen-bund.de/dgb/index.php?option=com_content&view=article&id=1548%3Aglossar&catid=83%3Ameinkind&Itemid=129&lang=de> und <http://de.wikipedia.org/wiki/Gehörlosigkeit>
+Diese etwas spitzfindig wirkende Unterscheidung basiert darauf, dass Menschen, die schon mal hören konnten, sich eher der hörenden Welt zugehörig fühlen, routinierter mit Schriftsprache umgehen können und mit dem laut- und schriftsprachlichen Denken umgehen können. Menschen, die gehörlos sind, leben eher in der Welt der Gehörlosen mit eigener (Gebärden-) Sprache, Kultur und Tradition. Zum Unterschied zwischen 'taub' und 'gehörlos' siehe auch <http://www.gehoerlosen-bund.de/dgb/index.php?option=com_content&view=article&id=1548%3Aglossar&catid=83%3Ameinkind&Itemid=129&lang=de> und <http://de.wikipedia.org/wiki/Gehörlosigkeit>
 
-Beide Gruppen sind bei Internetbesuchen auf anderssprachliche Ausgaben angewiesen. Dazu gehört in erster Linie Gebärdensprache, z.B. die DGS (Deutsche Gebärdensprache). Eine weitere Möglichkeit der Informationsvermittlung ist die Untertitelung von Videos, Filmen und anderen visuellen Medien. Allerdings ist Schriftsprache hier nur die zweitbeste Lösung: gehörlose Menschen sind häufig mit der Gebärdensprache als Muttersprache aufgewachsen und Schriftsprache ist nur Zweitsprache oder erste Fremdsprache dieser Menschen; sie beherrschen diese Sprache oft nur teilweise. So können selbst bei untertitelten Videos Barrieren bestehen bleiben.
+Beide Gruppen sind bei Internetbesuchen, bei denen akustisch Informationen ausgegeben werden, auf anderssprachliche Ausgaben angewiesen. Dazu gehört in erster Linie Gebärdensprache, z.B. die DGS (Deutsche Gebärdensprache). Eine weitere Möglichkeit der Informationsvermittlung ist die Untertitelung von Videos, Filmen und anderen visuellen Medien. Allerdings ist Schriftsprache hier nur die zweitbeste Lösung: gehörlose Menschen sind häufig mit der Gebärdensprache als Muttersprache aufgewachsen und Schriftsprache ist nur Zweitsprache oder erste Fremdsprache dieser Menschen; sie beherrschen diese Sprache oft nur teilweise. So können selbst bei untertitelten Videos Barrieren bestehen bleiben.
 
 Schwerhörige Menschen können zwar noch hören, sie sind aber auf Hilfsmittel wie Hörgeräte angewiesen. Bei der Nutzung des Internets sind keine zusätzlichen Hilfsmittel vonnöten, im Gegenteil, durch die schriftliche Vermittlung der Information sind weniger Barrieren vorhanden als bei anderen Medien.
 
 ----
 Blockhead: Deutsche Gebärdensprache (DGS)
 ----
-Block: //ToDo: Kasten Gebärdensprache (DGS) Hier muss noch ein Text rein.
+Block: //ToDo: Hier muss noch ein Text rein.
 
 ----
 Related:
 
+-archiv/techniken/avmedien
+-archiv/tools/videodeskription
 ----
 Tags: Hören, DGS, gehörlos, taub
 

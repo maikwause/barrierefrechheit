@@ -2,11 +2,11 @@ Title: Auch Suchmaschinen sind blind
 ----
 Text: 
 
-Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch Suchmaschinen sind sozusagen "blind" und orientieren sich beim Indizieren der Inhalte einer Webseite rein an den semantischen Strukturen; eine semantisch ausgezeichnete Überschrift wird bei der Anzeige der Suchergebnisse höher gewichtet als ein gleich-lautender `<span>`-Abschnitt.
+Semantik ist übrigens nicht nur für die Nutzer von Hilfsmitteln relevant, auch Suchmaschinen sind sozusagen "blind" und orientieren sich beim Indizieren der Inhalte einer Webseite rein an den semantischen Strukturen; eine semantisch ausgezeichnete Überschrift wird bei der Anzeige der Suchergebnisse höher gewichtet als ein gleichlautender `<span>`-Abschnitt.
 
 ----
 Related: 
--inhalt/semantik
+-archiv/techniken/semantik
 
 ----
 Tags: Quick-Tipp

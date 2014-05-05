@@ -1,7 +1,7 @@
 Title: Voice-Over
 ----
 Text:
-In iOS-Geräten, den Geräten des Herstellers Apple (iPhone, iPad) ist der Screenreader 'Voive-Over' bereits ab Werk eingebaut. Aktivieren lässt sich das Hilfsmittel über Einstellungen | Allgemein | Bedienungshilfen | VoiceOver. Jeder kann das Programm VoiceOver anschalten, um zu sehen (und vor allem zu hören), wie sich eine Webseite oder eine App für blinde Menschen darstellt.
+In iOS-Geräten, den Geräten des Herstellers Apple (iPhone, iPad), ist der Screenreader 'Voive-Over' bereits ab Werk eingebaut. Aktivieren lässt sich das Hilfsmittel über Einstellungen | Allgemein | Bedienungshilfen | VoiceOver. Jeder kann das Programm VoiceOver anschalten, um zu sehen (und vor allem zu hören), wie sich eine Webseite oder eine App für blinde Menschen darstellt.
 
 (youtube: http://www.youtube.com/watch?v=c0nvdiRdehw)
 <p class="caption">Quelle: (link: http://www.youtube.com/watch?v=c0nvdiRdehw)</p>

@@ -31,7 +31,7 @@
                             <div class="ym-gbox">
                                 <h3>Das Projekt</h3>
                                     <p>Die Plattform "barrierefrechheit.de" stellt Tipps und Hinweise zur Verfügung, um eigene Anwendungen, Websites und Blogs zugänglicher zu machen. Schnell. Einfach. Konkret. Auf Deutsch.</p>
-                                    <p>Barrierefrechheit hilft Entwicklern, ihre Websites und Anwendungen barrierefreier zu machen. Es ist eien Sammlung von konkreten Beispielen Tipps und Beispielen. Für jedes Problem gibt es mindestens eine Lösung und da man die Wahl hat, sollte man einfach die zugänglichere Lösung wählen. Diese Sammlung will dabei helfen die richtige Wahl zu treffen und ein Stück Bewußtsein bei Entwicklern zu wecken, denn Barrierefreiheit ist zu allererst Bewußtsein.</p>
+                                    <p>Barrierefrechheit hilft Entwicklern, ihre Websites und Anwendungen barrierefreier zu machen. Es ist eien Sammlung von konkreten Hinweisen, Tipps und Beispielen. Für jedes Problem gibt es mindestens eine Lösung und da man die Wahl hat, sollte man einfach die zugänglichere Lösung wählen. Diese Sammlung will dabei helfen die richtige Wahl zu treffen und ein Stück Bewußtsein bei Entwicklern zu wecken, denn Barrierefreiheit ist zu allererst Bewußtsein.</p>
                                     <p>Das Projekt ist kollaborativ aufgebaut, jeder kann und soll mitmachen und etwas beitragen. Der Inhalt liegt bei <a href="https://github.com/maikwause/barrierefrechheit/">Github</a>, dort kann man Fehler melden und eigene Beiträge bereitstellen.</p>
                                     
                             </div>

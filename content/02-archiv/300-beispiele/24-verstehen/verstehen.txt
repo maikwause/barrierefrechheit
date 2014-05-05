@@ -8,10 +8,10 @@ Hier kommen keine technischen Hilfsmittel zum Einsatz, Menschen mit Lernbehinder
 //ToDo: Verweis auf leichte Sprache
 
 ----
+Blockhead: Teaserboxen
+----
 Block:
 Teaserboxen sind besonders hervorgehobene, aus dem klassischen Textfluss herausgenommene Textabschnitte, die auf Bereiche von Unterseiten oder spezielle oder aktuelle Teile der Website hinweisen sollen.
-----
-Related:
 
 ----
 Tags: Leichte Sprache, Verstehen

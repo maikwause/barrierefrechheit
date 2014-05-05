@@ -25,7 +25,7 @@ Klug in diesem Zusammenhang sind die Regeln, die die Wiener Agentur "Wienfluss" 
 > - Schulen Sie die Shop-Redaktion in der Erstellung von Texten, die auch mit Vorlesesoftware oder geringer Sprachkompetenz verständlich sind.
 > - Geben Sie den Sprachwechsel für Seitenabschnitte über das LANG-Attribut bei einem beliebigen umgebenden HTML-Element an."
 
-Wie so häufig ist das Schulen der Redakteure und ihre Sensibilisierung für die Bedürfnisse der Benutzer ein – **wenn nicht der** – elementare Faktor für eine gute Benutzerführung.
+Wie so häufig ist das Schulen der Redakteure und ihre Sensibilisierung für die Bedürfnisse der Benutzer ein – wenn nicht der – elementare Faktor für eine gute Benutzerführung.
 
 ----
 Blockhead:
@@ -36,7 +36,7 @@ Block:
 ----
 Related:
 
--inhalt/screenreader
+-archiv/assistivetechnologien/screenreader
 
 ----
 Tags: W3C, Screenreader, Suchmaschinen, Sprache

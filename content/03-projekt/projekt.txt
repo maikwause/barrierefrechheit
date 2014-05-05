@@ -11,7 +11,7 @@ Barrierefrechheit hilft Entwicklern, ihre Websites und Anwendungen barrierefreie
 
 Jeder der möchte, kann diskret etwas nachschlagen oder sich einen Überblick verschaffen. Wer Interesse hat, mehr zu erfahren, kann sich über tiefer gehende Artikel und weiterführende Links in das Thema einarbeiten.
 
-Das Projekt ist kollaborativ aufgebaut, jeder kann und soll mitmachen und etwas beitragen. Der Inhalt liegt bei (link: https://github.com/maikwause/barrierefrechheit/ text:Github), dort kann man Fehler melden und eigene Beiträge bereitstellen. Wer keinen GiHub-Account hat, kann die //ToDo Link Artikel-Vorlage herunterladen, ausfüllen und an (email: post@barrierefrechheit.de) zurücksenden.
+Das Projekt ist kollaborativ aufgebaut, jeder kann und soll mitmachen und etwas beitragen. Der Inhalt liegt bei (link: https://github.com/maikwause/barrierefrechheit/ text:Github), dort kann man Fehler melden und eigene Beiträge bereitstellen. Wer keinen GiHub-Account hat, kann die (link: https://github.com/maikwause/barrierefrechheit/blob/master/content/vorlage/vorlage.txt text: Artikel-Vorlage) herunterladen, ausfüllen und an (email: post@barrierefrechheit.de) zurücksenden.
 
 #### Disclaimer
 

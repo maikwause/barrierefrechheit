@@ -1,7 +1,7 @@
 Title: Screenreader
 ----
 Text:
-Blinde Menschen verwenden Screenreader oder Braillezeilen. Ein Screenreader ist eine Software die den kompletten Bildschirminhalt erfasst und den Inhalt über die Soundkarte ausgibt (vorliest).
+Blinde Menschen verwenden Screenreader oder Braillezeilen. Ein Screenreader ist eine Software, die den kompletten Bildschirminhalt erfasst und den Inhalt über die Soundkarte ausgibt (vorliest).
 
 (youtube: http://www.youtube.com/watch?v=qiKWTTtGq7U)
 <p class="caption">Videoeinführung in das Screenreaderprogramm "JAWS"</p>

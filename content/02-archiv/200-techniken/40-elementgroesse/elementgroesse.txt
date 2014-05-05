@@ -6,7 +6,7 @@ Klassischerweise wird mit der Tastenkombination 'Strg +' die Zoomfunktion jedes 
 
 Traditionell (seit Netscape Navigator 4.x) wird bei der Vergrößerungsfunktion der Text (und nur der Text) der Webseite vergrößert. Dabei kann es zu Problemen kommen, wenn z. B. Breitenangaben von Seitenbereichen in absoluten Maßangaben (wie px) hinterlegt sind; Texte ragen über Flächen hinaus, Ebenen werden übereinander geschoben, Teile der Texte sind nicht lesbar.
 
-Im Sommer 2012 sind inzwischen alle Browserhersteller bei der Zoom-Vergrößerung angekommen, hierbei wird beim Aufruf der Vergrößerungsfunktion standardmäßig die gesamte Webseite vergrößert, vergleichbar mit dem Einsatz einer Lupenfunktion. Die Verhältnisse der Seitenbereiche bleiben dabei erhalten, allerdings rutschen bei der der Zoom-Vergrößerung schnell Bereiche der Seite aus dem Viewport; Teile der Seite, besonders am Rand, bleiben ungesehen.
+Inzwischen sind alle Browserhersteller bei der Zoom-Vergrößerung angekommen, hierbei wird beim Aufruf der Vergrößerungsfunktion standardmäßig die gesamte Webseite vergrößert, vergleichbar mit dem Einsatz einer Lupenfunktion. Die Verhältnisse der Seitenbereiche bleiben dabei erhalten, allerdings rutschen bei der Zoom-Vergrößerung schnell Bereiche der Seite aus dem Viewport; Teile der Seite, besonders am Rand, bleiben ungesehen.
 
 Um diesem Problem entgegenzutreten, empfiehlt es sich, die Größe von Flächen oder Spalten in relativen Größen wie "em" (einer Maßeinheit, die eine relative Größe in Abhängigkeit der Schriftgröße des Elternelements angibt) oder "%" anzugeben.
 

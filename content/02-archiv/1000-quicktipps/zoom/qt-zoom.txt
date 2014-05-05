@@ -2,8 +2,7 @@ Title: Zoom testen
 ----
 Text:
 
-Einfach mal mit der Tastenkombination 'Strg +' die Zoomfunktion jedes Browsers aktivieren 
-und die Seite vergrößern.
+Einfach mal mit der Tastenkombination 'Strg +' die Zoomfunktion jedes Browsers aktivieren und die Seite vergrößern.
 
 Im nächsten Schritt dann den Zoom von "Lupen-Zoom" auf "Text-Zoom" umstellen. Laufen die Texte nicht aus den Boxen heraus? Bleibt die Lesbarkeit erhalten? Sehr gut! Wenn nicht, (link: archiv/techniken/elementgroesse text: Elemente flexibel definieren).
 

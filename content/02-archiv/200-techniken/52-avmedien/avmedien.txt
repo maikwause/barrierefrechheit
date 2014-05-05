@@ -12,23 +12,17 @@ Um für schwerhörige oder gehörlose Benutzer die Zugänglichkeit zu audiovisue
 
 Innerhalb einer SMIL-Datei werden die anzuzeigenden Texte anhand einer vorgegebenen Struktur mit einem vordefinierten Time-Code versehen. Dadurch ist definiert, von wann bis wann der entsprechende Text angezeigt werden soll. Es gibt einige Tools auf dem Markt, die dem Ersteller der Untertitel helfen, die richtigen Texte zum richtigen Zeitpunkt einzublenden.
 
-Etwas komplexer stellt sich die Beschreibung des Geschehens im Film durch Audiodeskription dar. Hier werden Beschreibungen der der Handlung in Dialogpausen eingefügt, damit visuell eingeschränkte Benutzer dem Inhalt des Filmes folgen können. Grundsätzlich basiert dieses System ebenfalls auf dem SMIL-Standard, es braucht nur besonderes Fingerspitzengefühl für die Beschreibung der Situation, zusätzlich muss auf das genaue Timing zwischen den Dialogteilen geachtet werden.
+Etwas komplexer stellt sich die Beschreibung des Geschehens im Film durch Audiodeskription dar. Hier werden Beschreibungen der Handlung in Dialogpausen eingefügt, damit visuell eingeschränkte Benutzer dem Inhalt des Filmes folgen können. Grundsätzlich basiert dieses System ebenfalls auf dem SMIL-Standard, es braucht nur besonderes Fingerspitzengefühl für die Beschreibung der Situation, zusätzlich muss auf das genaue Timing zwischen den Dialogteilen geachtet werden.
 
 Im Unterschied zum Untertitel enthält ein Transkript die vollständige Mitschrift z. B. eines Vortrags. Dieses Dokument ist unabhängig vom vorzustellenden Film, hat den Vorteil, dass es als elektronischer Text durchsuchbar ist und kann Menschen, die nicht an der Veranstaltung teilgenommen haben, einen Eindruck vom Gesagten vermitteln. Zusätzlich eignet es sich hervorragend als Basis für die Untertitelung des Vortragsvideos, da alle gesprochenen Texte schon vorhanden sind und nur noch an den Zeitcode des Videos angepasst werden müssen.
 
 ----
-Blockhead:
-
-----
-Block:
-
-----
 Related:
 
--inhalt/screenreader
+-archiv/assistivetechnologien/screenreader
 
 ----
-Tags: SMIL, XML, W3C, gehörlos, Untertitel, Transkript, Audiodeskription
+Tags: SMIL, XML, W3C, gehörlos, Hören, Untertitel, Transkript, Audiodeskription
 
 ----
 Links:

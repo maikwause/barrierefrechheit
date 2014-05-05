@@ -7,11 +7,4 @@ Text:
 
 
 ----
-Block:
-
-----
-Related: 
-
-
-----
 Tags: Screenreader, WAI-ARIA, Quick-Tipp
