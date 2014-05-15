@@ -184,6 +184,13 @@
     margin-top: -0.94em;
   }
 
+  blockquote + ul{
+    text-align: right;
+    list-style-type: none;
+    font-weight: bold;
+    font-style: italic;
+  }
+
   strong,
   b {
     font-weight: bold;
