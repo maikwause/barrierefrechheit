@@ -5,13 +5,16 @@ Menschen mit kognitiven Einschränkungen (oder wie sie sich selbst nennen: Mensc
 
 Hier kommen keine technischen Hilfsmittel zum Einsatz, Menschen mit Lernbehinderungen hilft der Einsatz von "leichter Sprache"
 
-//ToDo: Verweis auf leichte Sprache
-
 ----
 Blockhead: Teaserboxen
 ----
 Block:
 Teaserboxen sind besonders hervorgehobene, aus dem klassischen Textfluss herausgenommene Textabschnitte, die auf Bereiche von Unterseiten oder spezielle oder aktuelle Teile der Website hinweisen sollen.
+
+----
+Related:
+
+-archiv/techniken/leichtesprache
 
 ----
 Tags: Leichte Sprache, Verstehen
