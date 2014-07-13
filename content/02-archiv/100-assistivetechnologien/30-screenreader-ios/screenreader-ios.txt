@@ -6,7 +6,7 @@ In iOS-Geräten, den Geräten des Herstellers Apple (iPhone, iPad), ist der Scre
 (youtube: http://www.youtube.com/watch?v=c0nvdiRdehw)
 <p class="caption">Quelle: (link: http://www.youtube.com/watch?v=c0nvdiRdehw)</p>
 
-VoiceOver verfolgt hierbei ein etwas anderes Konzept als klassische Screenreader: Da vor allem Touch-Devices zu Einsatz kommen, werden alle Inhalte beim Überfahren mit dem Finger vorgelesen, durch einen Tipp werden sie aktiviert und durch einen Doppel-Tipp wird die entsprechende Aktion ausgelöst. Besonders spannend ist hierbei, daß blinde Menschen das erste Mal eine räumliche Vorstellung von einer Website bekommen, denn "rechts oben" auf einer Website ist mit dieser Software das erste Mal im wahrsten Sinne des Wortes "begreifbar".
+VoiceOver verfolgt hierbei ein etwas anderes Konzept als klassische Screenreader: Da vor allem Touch-Devices zum Einsatz kommen, werden alle Inhalte beim Überfahren mit dem Finger vorgelesen, durch einen Tipp werden sie aktiviert und durch einen Doppel-Tipp wird die entsprechende Aktion ausgelöst. Besonders spannend ist hierbei, dass blinde Menschen das erste Mal eine räumliche Vorstellung von einer Website bekommen, denn „rechts oben“ auf einer Website ist mit dieser Software das erste Mal im wahrsten Sinne des Wortes „begreifbar“.
 
 ----
 Block:

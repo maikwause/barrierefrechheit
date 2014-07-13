@@ -6,15 +6,15 @@ Klassischerweise wird mit der Tastenkombination 'Strg +' die Zoomfunktion jedes 
 
 Traditionell (seit Netscape Navigator 4.x) wird bei der Vergrößerungsfunktion der Text (und nur der Text) der Webseite vergrößert. Dabei kann es zu Problemen kommen, wenn z. B. Breitenangaben von Seitenbereichen in absoluten Maßangaben (wie px) hinterlegt sind; Texte ragen über Flächen hinaus, Ebenen werden übereinander geschoben, Teile der Texte sind nicht lesbar.
 
-Inzwischen sind alle Browserhersteller bei der Zoom-Vergrößerung angekommen, hierbei wird beim Aufruf der Vergrößerungsfunktion standardmäßig die gesamte Webseite vergrößert, vergleichbar mit dem Einsatz einer Lupenfunktion. Die Verhältnisse der Seitenbereiche bleiben dabei erhalten, allerdings rutschen bei der Zoom-Vergrößerung schnell Bereiche der Seite aus dem Viewport; Teile der Seite, besonders am Rand, bleiben ungesehen.
+Inzwischen sind alle Browserhersteller bei der Zoom-Vergrößerung angekommen – hierbei wird beim Aufruf der Vergrößerungsfunktion standardmäßig die gesamte Webseite vergrößert, vergleichbar mit dem Einsatz einer Lupenfunktion. Die Verhältnisse der Seitenbereiche bleiben dabei erhalten, allerdings rutschen bei der Zoom-Vergrößerung schnell Bereiche der Seite aus dem Viewport; Teile der Seite, besonders am Rand, bleiben ungesehen.
 
-Um diesem Problem entgegenzutreten, empfiehlt es sich, die Größe von Flächen oder Spalten in relativen Größen wie "em" (einer Maßeinheit, die eine relative Größe in Abhängigkeit der Schriftgröße des Elternelements angibt) oder "%" anzugeben.
+Um diesem Problem entgegenzutreten, empfiehlt es sich, die Größe von Flächen oder Spalten in relativen Größen wie „em“ (einer Maßeinheit, die eine relative Größe in Abhängigkeit der Schriftgröße des Elternelements angibt) oder „%“ anzugeben.
 
-Wenn eine Spalte ihre Größenangaben ebenfalls in "em" erhält, wird sie bei der "Textzoom"-Vergrößerung ebenfalls mitwachsen, so rutschen keine Texte aus Boxen oder Feldern heraus, die Lesbarkeit der Texte bleibt erhalten.
+Wenn eine Spalte ihre Größenangaben ebenfalls in „em“ erhält, wird sie bei der „Textzoom“-Vergrößerung ebenfalls mitwachsen. So rutschen keine Texte aus Boxen oder Feldern heraus und die Lesbarkeit der Texte bleibt erhalten.
 
-Es könnten z. B. die linke und die rechte Spalte 25% der Breite des Elterncontainers annehmen, der Inhaltsbereich erhält 50% der definierten Breite. Dadurch passt sich der anzuzeigende Bereich unterschiedlich großer Monitore entsprechend automatisch an den Viewport an. Ist mehr Raum in der Breite vorhanden, spannen sich die jeweiligen Bereiche in eine weitere Breite, ohne das Verhältnis zueinander zu verlieren. Wenn dann noch mit "max-width" und "min-width" für den ganzen Body-Container gearbeitet wird, erreicht man größtmögliche Flexibilität bei der Darstellung der Inhalte.
+Es könnten z. B. die linke und die rechte Spalte 25% der Breite des Elterncontainers annehmen, der Inhaltsbereich erhält 50% der definierten Breite. Dadurch passt sich der anzuzeigende Bereich unterschiedlich großer Monitore entsprechend automatisch an den Viewport an. Ist mehr Raum in der Breite vorhanden, spannen sich die jeweiligen Bereiche in eine weitere Breite, ohne das Verhältnis zueinander zu verlieren. Wenn dann noch mit „max-width“ und „min-width“ für den ganzen Body-Container gearbeitet wird, erreicht man größtmögliche Flexibilität bei der Darstellung der Inhalte.
 
-Dies ist nicht nur in Hinsicht auf die Barrierefreiheit wichtig. Menschen mit Behinderungen nutzen trotz der Standardeinstellung "Lupen-Zoom" weiterhin die Text-Zoom-Funktion, weil diese sich leichter an die individuellen Bedürfnisse anpassen lässt. Ebenso lassen sich mit dieser Technik Inhalte auf vielen unterschiedlich großen Endgeräten anzeigen, das so genannte "Responsive Webdesign" erfordert zusätzlich zu weiteren Komponenten genau diese flexible Anzeigeform.
+Dies ist nicht nur in Hinsicht auf die Barrierefreiheit wichtig. Menschen mit Behinderungen nutzen trotz der Standardeinstellung „Lupen-Zoom“ weiterhin die Text-Zoom-Funktion, weil diese sich leichter an die individuellen Bedürfnisse anpassen lässt. Ebenso lassen sich mit dieser Technik Inhalte auf vielen unterschiedlich großen Endgeräten anzeigen, das so genannte „Responsive Webdesign“ erfordert zusätzlich zu weiteren Komponenten genau diese flexible Anzeigeform.
 
 #### Beispiel-Code zur Verdeutlichung:
 ```html
@@ -63,4 +63,4 @@ Link2:
 
 Link3:
 	Url: http://www.alistapart.com/articles/responsive-web-design/
-	Beschreibung: "Responsive Webdesign" sorgt für eine angepasste Darstellung der Inhalte in Abhängigkeit der sichtbaren Bildschirmgröße, insbesondere (aber nicht nur) auf mobilen Endgeräten.
+	Beschreibung: „Responsive Webdesign“ sorgt für eine angepasste Darstellung der Inhalte in Abhängigkeit der sichtbaren Bildschirmgröße, insbesondere (aber nicht nur) auf mobilen Endgeräten.

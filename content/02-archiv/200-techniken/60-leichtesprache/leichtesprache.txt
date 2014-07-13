@@ -1,7 +1,7 @@
 Title: Leichte Sprache
 ----
 Text:
-Das Prinzip der "leichten Sprache" soll in erster Linie Menschen mit Lernschwierigkeiten, aber auch Menschen mit Lese-/Rechtschreibschwäche und Nicht-Muttersprachlern ermöglichen, komplizierter Sachverhalte zu verstehen, da sie in einer einfach aufgebauten Sprache beschrieben sind. Zu den Prinzipien der "leichten Sprache" gehören:
+Das Prinzip der "leichten Sprache" soll in erster Linie Menschen mit Lernschwierigkeiten, aber auch Menschen mit Lese-/Rechtschreibschwäche und Nicht-Muttersprachlern ermöglichen, komplizierter Sachverhalte zu verstehen. Zu den Prinzipien der "leichten Sprache" gehören:
 
 > - Es sollen kurze Sätze verwendet werden. Lange Sätze (mit mehr als 15 Wörtern) werden in mehrere Sätze aufgeteilt.
 > - Jeder Satz enthält nur eine Aussage.
@@ -53,11 +53,11 @@ Link1:
      Url: http://de.wikipedia.org/wiki/Leichte_Sprache
      Beschreibung: Wikipedia-Artikel zu "Leichte Sprache"
 Link2:
-	Url: http://www.leichtesprache.org/     
+	Url: http://www.leichtesprache.org/
 Link3:
 	Url: http://www.leichtesprache.org/downloads/Regeln_Netzwerk_Leichte_Sprache.pdf
 	Beschreibung: PDF mit Tipps und Regeln zu leicher Sprache
 Link4:
-	Url: http://www.einfach-teilhaben.de/DE/LS/Schule_Studium/Schule/schule_inhalt.html	
+	Url: http://www.einfach-teilhaben.de/DE/LS/Schule_Studium/Schule/schule_inhalt.html
 Link5:
-	Url: http://www.hurraki.de/wiki/index.php?title=Hauptseite	
+	Url: http://www.hurraki.de/wiki/index.php?title=Hauptseite

@@ -13,16 +13,16 @@ Problematisch an der Auszeichnung einzelner Worte und Passagen in anderen Sprach
 
 Wenn man die aktuelle Diskussion beobachtet, stellt man fest, dass die Grundidee, auch Suchmaschinen, automatischen Übersetzungsprogrammen und Silbentrennungsalgorithmen diese Mehrwertinformation der angegebenen Sprache mitzugeben, nicht zündet.
 
-> Damit ist wohl endgültig klar, dass der am meisten verwendeten Suchmaschine jegliche Sprachauszeichnung schnurzegal ist. Allgemeine Aussagen wie, Sprachauszeichnung ist auch Unterstützung für Suchmaschinen, ist eine fromme Vorstellung, die in der Praxis seit vielen Jahren nicht mal ansatzweise umgesetzt wird.
+> Damit ist wohl endgültig klar, dass der am meisten verwendeten Suchmaschine jegliche Sprachauszeichnung schnurzegal ist. Allgemeine Aussagen wie „Sprachauszeichnung ist auch Unterstützung für Suchmaschinen” sind eine fromme Vorstellung, die in der Praxis seit vielen Jahren nicht mal ansatzweise umgesetzt wird.
 
-Da die Screenreader die einzigen Programme sind, die die Markierung der Sprache nutzen, ist man inzwischen davon abgerückt ist, einzelne Passagen oder Worte mit Sprachattributen auszuzeichnen. Mehr dazu im (link:http://www.oliveira-online.net/wordpress/index.php/2010/06/27/screenreader-wer-braucht-sprachauszeichnung/ text: Artikel von Domingos de Oliveira).
+Da die Screenreader die einzigen Programme sind, die die Markierung der Sprache nutzen, ist man inzwischen davon abgerückt, einzelne Passagen oder Worte mit Sprachattributen auszuzeichnen. Mehr dazu im (link:http://www.oliveira-online.net/wordpress/index.php/2010/06/27/screenreader-wer-braucht-sprachauszeichnung/ text: Artikel von Domingos de Oliveira).
 
 Klug in diesem Zusammenhang sind die Regeln, die die Wiener Agentur "Wienfluss" in ihren "Accessible eCommerce guidelines" aufstellen:
 
 > - Zeichnen Sie die Textsprache im HTML aus und vermeiden Sie Sprachwechsel
 > - Geben Sie Sprachinformationen für die gesamte Seite an. Z.B. LANG-Attribut im HTTP-Header oder dem HTML-Element (`<HTML>`).
 > - Vermeiden Sie unnötige Sprachwechsel und die Verwendung von fremdsprachigen Phrasen oder wenig verbreiteten Fremdwörtern bzw. Anglizismen.
-> - Schulen Sie die Shop-Redaktion in der Erstellung von Texten, die auch mit Vorlesesoftware oder geringer Sprachkompetenz verständlich sind.
+> - Schulen Sie die Website-Redaktion in der Erstellung von Texten, die auch mit Vorlesesoftware oder geringer Sprachkompetenz verständlich sind.
 > - Geben Sie den Sprachwechsel für Seitenabschnitte über das LANG-Attribut bei einem beliebigen umgebenden HTML-Element an."
 
 Wie so häufig ist das Schulen der Redakteure und ihre Sensibilisierung für die Bedürfnisse der Benutzer ein – wenn nicht der – elementare Faktor für eine gute Benutzerführung.

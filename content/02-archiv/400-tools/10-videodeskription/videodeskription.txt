@@ -4,11 +4,11 @@ Text:
 
 Für die Untertitelung oder die Audiodeskription von Videos gibt es mehrere kostenlose Tools:
 
-Auf der Website (link: http://universalsubtitles.org/) trägt man den Link zu einem schon auf Youtube vorhandenen Video ein, unterhalb des anschließend auf der Website geladenen Videos ist ein Editor-Fenster eingerichtet, in das man den zu hörenden Text einträgt. Im zweiten Durchlauf wird die Zeitcodierung vorgenommen, das heißt, beim Durchlauf des Videos wird auf Knopfdruck der Zeitpunkt des Ein- und Ausblenden festgelegt. Nach erfolgter Überprüfung wird eine *.srt-Datei erzeugt, die die zeitcodierten Einträge enthält im Anschluss auf Youtube mit dem entsprechenden Video verknüpft werden kann.
+Auf der Website (link: http://universalsubtitles.org/) trägt man den Link zu einem schon auf Youtube vorhandenen Video ein, unterhalb des anschließend auf der Website geladenen Videos ist ein Editor-Fenster eingerichtet, in das man den zu hörenden Text einträgt. Im zweiten Durchlauf wird die Zeitcodierung vorgenommen. Beim Durchlauf des Videos wird auf Knopfdruck der Zeitpunkt des Ein- und Ausblendens festgelegt. Nach erfolgter Überprüfung wird eine *.srt-Datei erzeugt, die die zeitcodierten Einträge enthält und im Anschluss auf Youtube mit dem entsprechenden Video verknüpft werden kann.
 
 Vergleichbares leistet das Programm "(link: http://www.urusoft.net/uwhome.php?lang=1 text: Subtitle Workshop)" für die Windows-Oberfläche, das ebenfalls das Eintragen von Texten und das Synchronisieren mit den entsprechenden Zeitpunkten des Videos ermöglicht. Hier wird ebenfalls eine *.srt-Datei generiert, die man als Video-Ersteller mit dem jeweiligen Video verknüpft.
 
-Der Freeware Video-Konverter "(link: http://freemake.com text: freemake.com)" bietet die Möglichkeit, unabhängig von Youtube, beim Konvertieren von Videos von einem Format in ein anderes, Untertitel aus einer vorhandenen *.srt-Datei direkt in den Film im neuen Format mit hineinzurendern.
+Der Freeware Video-Konverter "(link: http://freemake.com text: freemake.com)" bietet – unabhängig von Youtube – beim Konvertieren von Videos von einem Format in ein anderes die Möglichkeit, Untertitel aus einer vorhandenen *.srt-Datei direkt in den Film im neuen Format mit hineinzurendern.
 
 
 ### Automatische Untertitel bei Youtube

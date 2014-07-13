@@ -2,7 +2,7 @@ Title: Validität
 ----
 Text:
 
-Der Begriff "Validität" bezieht sich in diesem Zusammenhang auf 'Gültigkeit', das bedeutet, dass der erstellte Code der Webseite die Grundregeln erfüllen soll. Dabei gilt es, die aktuellen Webstandards des World Wide Web Consortium (W3C) einzuhalten. Valider, also gültiger, den Regeln entsprechender Quellcode hat den Vorteil, dass die unterschiedlichen Browser beim Rendering, also dem Umsetzen des Quellcodes in die entsprechende Anzeige, nicht raten oder interpretieren müssen ("Magische Fehlerkorrektur").
+Der Begriff „Validität“ bezieht sich in diesem Zusammenhang auf „Gültigkeit“. Das bedeutet, dass der erstellte Code der Webseite die technischen Grundregeln erfüllen soll. Dabei gilt es, die aktuellen Webstandards des World Wide Web Consortium (W3C) einzuhalten. Valider, also gültiger, den Regeln entsprechender Quellcode hat den Vorteil, dass die unterschiedlichen Browser beim Rendering, also dem Umsetzen des Quellcodes in die entsprechende Anzeige, nicht raten oder interpretieren müssen („Magische Fehlerkorrektur“).
 
 Somit kommt es zu weniger unerwarteten Effekten, die Verschachtelungen der einzelnen HTML-Elemente werden vom Browser genau so interpretiert, wie es der Codeersteller vorgesehen hat. Hilfsmittel erhalten die Strukturinformationen, die sie für die Aufbereitung der Webseite benötigen, direkt vom Browser. Wenn dieser aufgrund fehlerhaften HTMLs bereits fehlerhafte Daten übermittelt, wird auch das assistive Programm eine fragwürdige Ausgabe produzieren.
 

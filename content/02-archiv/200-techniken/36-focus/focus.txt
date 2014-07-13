@@ -9,7 +9,7 @@ Tastaturnutzer sind auf einen deutlichen Fokus angewiesen. Durch die Benutzung d
 (image: 02.jpg alt: Screenshot Link mit erhaltenem Fokus und aktivierter Outline)
 <p class="caption">Screenshot http://www.einfach-fuer-alle.de/ mit fokussiertem Link (abgerufen 05.04.2012)</p>
 
-Ohne diese Markierung geht der Überblick schnell verloren, denn man weiß nicht mehr, auf welchem Link sich der Fokus befindet und "wo man gerade ist". Genauso sollten die Sprungmarken, die normalerweise "unsichtbar", also aus dem Viewport, (dem sichtbaren Bereich innerhalb des Browsers) geschoben formatiert sind, bei Erhalt des Fokus deutlich sichtbar innerhalb des Browserfensters (klassisch am oberen Rand) erscheinen. Da Formularelemente ebenfalls per Tab-Taste angesprungen werden, ist auch hier auf eine deutliche Markierung zu achten, die nicht nur aus einer Farbe besteht.
+Ohne diese Markierung geht der Überblick schnell verloren, denn man weiß nicht mehr, auf welchem Link sich der Fokus befindet und „wo man gerade ist“. Genauso sollten die Sprungmarken, die normalerweise „unsichtbar“, also aus dem Viewport, (dem sichtbaren Bereich innerhalb des Browsers) geschoben formatiert sind, bei Erhalt des Fokus deutlich sichtbar innerhalb des Browserfensters (klassisch am oberen Rand) erscheinen. Da Formularelemente ebenfalls per Tab-Taste angesprungen werden, ist auch hier auf eine deutliche Markierung zu achten, die nicht nur aus einer Farbe besteht.
 
 Es ist häufig zu beobachten, dass Webentwickler die CSS-Eigenschaft 'outline' abstellen beziehungsweise auf null setzen. Unterstützt wird dieses Vorgehen durch viele sogenannte Reset-Stylesheets, die eigentlich dafür gedacht sind, die unterschiedlichen Standarddarstellung der Browser für viele Elemente auf einen Wert zurückzusetzen, um unterschiedliche Darstellungen zu vermeiden. Im beliebten "reset.css" von Eric Meyer stellt sich das folgendermaßen dar:
 ```css
@@ -28,11 +28,25 @@ outline: 0;
 
 Der outline-Wert wird also zu Beginn zurückgesetzt, sollte aber im Folgenden, zumindest für den :focus-Status wieder aktiviert werden. Dieses Konzept ignorieren aber viele Entwickler, weil sie den durch outline entstehenden Rahmen um fokussierte Elemente für hässlich halten; bei einer Konzeption, in der der Designer schon eine entsprechende Formatierung für den outline-Rahmen einzelner Bereiche anlegt, muss Barrierefreiheit nicht zwangsläufig eine unschöne Auswirkung haben.
 
+Eine leicht umzusetzende Faustregel bei der Deklaration von CSS-Regeln für Hyperlinks sorgt bereits für deutlich mehr Barrierefreiheit. Sobald der Webentwickler einen visuellen Hover-Zustand definiert, sollte direkt auch der Fokus-Zustand mit definiert werden. Dadurch reagiert der Fokus genauso, wie wenn der Websitebesucher mit der Maus über den Link fährt.
 
+Ein Beispiel:
+
+```css
+
+a {
+	color: #900;
+	text-decoration: underline;
+}
+
+a:hover, a:focus {
+	color: #090;
+}
+```
 
 
 ----
-Related: 
+Related:
 
 -archiv/techniken/sprungmarken
 -archiv/techniken/css

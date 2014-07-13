@@ -19,9 +19,9 @@ Die im Layout nebeneinander angeordneten Elemente (hier rot markiert), sind line
 (image:02.jpg alt: Screenshot einer Website in flexiblem Layout mit abgeschaltetem CSS width: 80%)
 <p class="caption">Screenshot der Seite http://stiftung-lebenshilfe.org/ bei abgeschaltetem CSS (abgerufen 11.03.2012)</p>
 
-Elementar für die Zugänglichkeit einer Webseite ist es, die Inhalte nach ihrer Wichtigkeit zu strukturieren, die endgültige Platzierung der Inhalte kann dann (auch im Nachhinein) über CSS gesteuert werden. Das bedeutet, dass ein Randelement wie die "Sidebar" im Fluss der Elemente erst spät kommt, da sie sonst den Weg zur schnellen Erfassung des eigentlichen Inhalts versperrt.
+Elementar für die Zugänglichkeit einer Webseite ist es, die Inhalte nach ihrer Wichtigkeit zu strukturieren Die endgültige Platzierung der Inhalte kann dann (auch im Nachhinein) über CSS gesteuert werden. Das bedeutet, dass ein Randelement wie die „Sidebar“ im Fluss der Elemente erst spät kommt, da sie sonst den Weg zur schnellen Erfassung des eigentlichen Inhalts versperrt.
 
-Unter Experten gibt es bis heute Diskussionen um den richtigen Weg der Auflistung. "content first" ist eine Theorie, nach der es empfehlenswert ist, erst den eigentlichen Inhalt aufzulisten und die Navigation hintenanzustellen, insbesondere weil sich die Navigation ja immer wieder wiederholt. Über eine Sprungmarke kann die Navigation trotzdem direkt erreicht werden. Beim System "navigation first" wird die Navigation dem Inhalt vorangestellt, dieser kann ebenfalls über eine Sprungmarke erreicht werden. Bei all diesen Konzepten bleibt die Zusatzinformation in der Seitenleiste vernachlässigt.
+Unter Experten gibt es bis heute Diskussionen um den richtigen Weg der Auflistung. „Content first“ ist eine Theorie, nach der es empfehlenswert ist, erst den eigentlichen Inhalt aufzulisten und die Navigation hintenanzustellen, insbesondere weil sich die Navigation ja immer wieder wiederholt. Über eine Sprungmarke kann die Navigation trotzdem direkt erreicht werden. Beim Prinzip „navigation first“ wird die Navigation dem Inhalt vorangestellt, dieser kann ebenfalls über eine Sprungmarke erreicht werden. Bei all diesen Konzepten bleibt die Zusatzinformation in der Seitenleiste vernachlässigt.
 
 
 

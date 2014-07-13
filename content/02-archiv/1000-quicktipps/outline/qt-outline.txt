@@ -1,7 +1,8 @@
 Title: Outline nicht ausblenden
 ----
 Text:
-Website-Ersteller sollten darauf achten, die einzelnen Elemente einer Seite semantisch (entsprechend ihrer Bedeutung) auszuzeichnen, denn Hilfsmittel wie zum Beispiel Screenreader lesen diese Elemente aus und bieten Übersichten der Überschriften direkt zum Ansteuern an, um Blinden z. B. einen Überblick über die Inhalte einer Webseite zu geben.
+Outlines von Hyperlinks sollten nicht ausgeblendet werden, um Tastaturnutzern einen visuellen Anhaltspunkt zu geben, bei welchem Element sich der Fokus gerade befindet.
+Vorsicht bei sogenannten reset-Stylesheets, die das Ausblenden von Outlines zumeist global vorgeben!
 
 ----
 Block:
