@@ -25,5 +25,5 @@ Die graphische Gestaltung kommt von Daniela Rogge, (link: http://www.zzwei.de te
 
 Die grundlegende Formatierung basiert auf dem CSS-Framework (link: http://yaml.de text: YAML), das zugrundeliegende CMS ist (link: http://getkirby.com text: Kirby).
 
-Quellenangabe für die Betonwand:
+Quellenangabe für das Bild der Betonwand:
 © modil_a Fotolia (link:fotolia.com)

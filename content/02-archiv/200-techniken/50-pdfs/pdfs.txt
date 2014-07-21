@@ -7,7 +7,7 @@ Vergleichbar zur Webseite ist auch in der Word-Datei, die ein PDF werden soll, e
 
 Natürlich ist es im Detail nicht ganz so einfach, auch in PDFs müssen Alternativtexte für Bilder eingepflegt werden, sofern das noch nicht bei der Erstellung der Word-Datei passiert ist, durch das "Taggen" also das Auszeichnen, kann zusätzlich weiteren Elementen eine semantische Bedeutung innerhalb der Struktur gegeben werden. Eine ausführliche und anschauliche Anleitung bietet das Handbuch (link: http://barrierekompass.de/fileadmin/files/barrierefreie-pdf-mit-word2007-und-acrobat9.pdf text:"Barrierefreie PDF aus Word 2007 und Acrobat Pro 9") von (link: http://barrierekompass.de).
 
-Bei der PDF-Erstellung gilt noch mehr als bei der Webentwicklung: Wenn von vornherein barrierefrei konzeptioniert wird, muss kein Mehraufwand entstehen; der Versuch, Barrierefreiheit "anzuflanschen", ist teuer, aufwendig und führt oft nur noch zu unbefriedigenden Lösungen.
+Bei der PDF-Erstellung gilt noch mehr als bei der Webentwicklung: Wenn von vornherein barrierefrei konzeptioniert wird, muss kein Mehraufwand entstehen; der Versuch Barrierefreiheit "anzuflanschen", ist teuer, aufwendig und führt oft nur noch zu unbefriedigenden Lösungen.
 
 Sensibilität beim Designer vorausgesetzt, können barrierefreie PDF-Dokumente sogar direkt aus dem Programm Adobe InDesign erstellt werden. Auch umfangreiche Broschüren und Kataloge, aufwendig gestaltete Flyer können barrierefrei sein.
 

@@ -5,9 +5,9 @@ CSS (Cascading Stylesheet) dient dazu, auf dem strukturierten HTML Quellcode auf
 
 `<link href="files/layout.css" rel="stylesheet" type="text/css" media="screen" />`
 
-im Kopfbereich jeder HTML-Datei einzubinden. So fungiert eine einzelne Datei als zentrale Formatvorlage für alle Bestandteile eine Website und Änderungen in den Formatierungsregeln wirken sich auf alle definierten Elemente aus.
+im Kopfbereich jeder HTML-Datei einzubinden. So fungiert eine einzelne Datei als zentrale Formatvorlage für alle Bestandteile einer Website und Änderungen in den Formatierungsregeln wirken sich auf alle definierten Elemente aus.
 
-Durch CSS können Inhalt und Design voneinander getrennt werden, per CSS wird die graphische Gestaltung auf das klug und semantisch strukturierte HTML-Gerüst aufgesetzt, durch überlegten Einsatz werden Ort und Form der Darstellung einzelner Seitenbereiche von der Strukturebene gelöst und rein über die Präsentationsebene abgewickelt.
+Durch CSS können Inhalt und Design voneinander getrennt werden. Per CSS wird die graphische Gestaltung auf das klug und semantisch strukturierte HTML-Gerüst aufgesetzt und durch überlegten Einsatz werden Ort und Form der Darstellung einzelner Seitenbereiche von der Strukturebene gelöst und rein über die Präsentationsebene abgewickelt.
 
 Es ist möglich per CSS verschiedene Ausgabemedien wie Bildschirm oder Druckversion anzusprechen. Das erlaubt die gezielte Formatierung der Inhalte für eine Druckdarstellung, ebenso kann man in Abhängigkeit von der Bildschirmgröße die Formatierung der Inhalte steuern (media queries).
 
@@ -34,10 +34,10 @@ body{
 ```
 die Schriftart für den Body auf die serifenlose Schriftfamilie festgelegt, gilt das auch für alle innerhalb von `<body>…</body>` definierten Kindelemente, bis für eines der Kindelemente etwas anderes festgelegt wird. Diese Eigenschaften werden wieder an die entsprechenden Kindelemente weitervererbt.
 
-Grundsätzlich kann einem Element auch direkt, über das 'style'-Attribut eine Eigenschaft zugewiesen werden:
+Grundsätzlich kann einem Element auch direkt über das 'style'-Attribut eine Eigenschaft zugewiesen werden:
 `<p style="color: #00FF00">Absatz mit grüner Schrift</p>`
 
-Dies ist aber unvorteilhaft, da dadurch die Idee, alle Gestaltung über eine zentrale Datei zu steuern ad absurdum geführt wird. Dieses einzigartige Element wird keine der im zentralen Dokument vorgenommenen Änderungen übernehmen, denn die sogenannte 'inline'-Formatierung hat die höchste Spezifität innerhalb der CSS-Regeln, hat sozusagen das letzte Wort, welche Formatierung angewendet wird.
+Dies ist aber unvorteilhaft, da dadurch die Idee alle Gestaltung über eine zentrale Datei zu steuern ad absurdum geführt wird. Dieses einzigartige Element wird keine der im zentralen Dokument vorgenommenen Änderungen übernehmen, denn die sogenannte 'inline'-Formatierung hat die höchste Spezifität innerhalb der CSS-Regeln – sie hat sozusagen das letzte Wort, welche Formatierung angewendet wird.
 ----
 Blockhead:
 

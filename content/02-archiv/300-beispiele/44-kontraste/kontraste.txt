@@ -10,11 +10,11 @@ Eine relativ deutliche Umkehrung aller Farben ist der Bildschirmmodus "Kontrast-
 
 Dieser Bildschirmmodus zeigt einen vereinfachten, invertierten, gut lesbaren Bildschirm, der übrigens auch für Notebook-Nutzer im Sonnenlicht empfohlen wird:
 
->Wer viel mit dem Notebook umher reist, leidet immer mal wieder unter Spiegelreflexen oder mangelndem Kontrast durch gleißendes Tageslicht. Halbwegs störungsfreies Arbeiten ist in solchen Fällen oft nur bei maximaler Bildschirm-Helligkeit möglich - auf Kosten der Akkulaufzeit. Eine elegantere Lösung ist der relativ unbekannte Windows-Bildschirmmodus für hohen Kontrast. Wir erklären, wie man diesen Modus aktiviert.
+>Wer viel mit dem Notebook uterwegs ist, leidet immer mal wieder unter spiegelndem Display oder mangelndem Kontrast durch gleißendes Tageslicht. Halbwegs störungsfreies Arbeiten ist in solchen Fällen oft nur bei maximaler Bildschirm-Helligkeit möglich - auf Kosten der Akkulaufzeit. Eine elegantere Lösung ist der relativ unbekannte Windows-Bildschirmmodus für hohen Kontrast. Wir erklären, wie man diesen Modus aktiviert.
 
 > Unter schlechten Lichtverhältnissen werden grafische Spielereien von Windows und die eigenen Lieblingsfarben leicht zu einem Stressfaktor. Mit der simplen Tastenkombination ALT links + Umschalten links / Shift links + Druck / Print Screen wechselt man bei Bedarf zu einem simplen aber besonders gut lesbaren Darstellungsmodus für hohen Kontrast. Nach einer kurzen Bestätigung baut Windows den Bildschirm mit einem alternativen Anzeigeschema neu auf.
 
-
+> Wer mit dem Mac des Öfteren im Dunkeln arbeitet oder wegen eingeschränktem Sehvermögen eine kontrastreiche Darstellung benötigt, kann über die Systemeinstellungen im Bedienungshilfen-Dialog die Farben des Displays auf Graustufen umschalten oder den Kontrast erhöhen.
 
 ----
 
@@ -30,3 +30,5 @@ Links:
 
 Link1:
      Url: http://onsoftware.softonic.de/windows-kontrastmodus-fur-schlechte-lichtverhaltnisse
+Link2:
+     Url: https://www.apple.com/de/accessibility/osx/

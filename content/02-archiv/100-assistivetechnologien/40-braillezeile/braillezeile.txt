@@ -1,7 +1,7 @@
 Title: Braillezeile
 ----
 Text:
-Eine Braillezeile funktioniert vergleichbar wie ein Screenreader, häufig bietet Screenreadersoftware zusätzlich zur akustischen Ausgabe auch die Ausgabe auf der Braillezeile. Hierbei wird der Bildschirminhalt zeilenweise in die "Blindenschrift" Braille übersetzt.
+Eine Braillezeile funktioniert vergleichbar wie ein Screenreader, häufig bietet Screenreadersoftware zusätzlich zur akustischen Ausgabe auch die Ausgabe auf der Braillezeile. Hierbei wird der Bildschirminhalt zeilenweise in die „Blindenschrift“ Braille übersetzt.
 
 
 (image: 01.jpg alt: Braillezeile im Einsatz width: 80%)

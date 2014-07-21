@@ -14,7 +14,7 @@ Innerhalb einer SMIL-Datei werden die anzuzeigenden Texte anhand einer vorgegebe
 
 Etwas komplexer stellt sich die Beschreibung des Geschehens im Film durch Audiodeskription dar. Hier werden Beschreibungen der Handlung in Dialogpausen eingefügt, damit visuell eingeschränkte Benutzer dem Inhalt des Filmes folgen können. Grundsätzlich basiert dieses System ebenfalls auf dem SMIL-Standard, es braucht nur besonderes Fingerspitzengefühl für die Beschreibung der Situation, zusätzlich muss auf das genaue Timing zwischen den Dialogteilen geachtet werden.
 
-Im Unterschied zum Untertitel enthält ein Transkript die vollständige Mitschrift z. B. eines Vortrags. Dieses Dokument ist unabhängig vom vorzustellenden Film, hat den Vorteil, dass es als elektronischer Text durchsuchbar ist und kann Menschen, die nicht an der Veranstaltung teilgenommen haben, einen Eindruck vom Gesagten vermitteln. Zusätzlich eignet es sich hervorragend als Basis für die Untertitelung des Vortragsvideos, da alle gesprochenen Texte schon vorhanden sind und nur noch an den Zeitcode des Videos angepasst werden müssen.
+Im Unterschied zum Untertitel enthält ein Transkript die vollständige Mitschrift z. B. eines Vortrags. Dieses Dokument ist unabhängig vom vorzustellenden Film und hat den Vorteil, dass es als elektronischer Text durchsuchbar ist. Es kann Menschen, die nicht an der Veranstaltung teilgenommen haben, einen Eindruck vom Gesagten vermitteln. Zusätzlich eignet es sich hervorragend als Basis für die Untertitelung des Vortragsvideos, da alle gesprochenen Texte schon vorhanden sind und nur noch an den Zeitcode des Videos angepasst werden müssen.
 
 ----
 Related:
