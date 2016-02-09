@@ -23,14 +23,29 @@
 
   /* (en) Hide unneeded container of the screenlayout in print layout */
   /* (de) Für den Druck nicht benötigte Container des Layouts abschalten */
-  nav,
+  nav, aside, footer,
   .ym-searchform {
     display: none;
+  }
+  main{
+    margin: 0;
+    padding: 0;
+  }
+  .ym-wrapper{
+    max-width: 100%;
+  }
+  .ym-col1{
+    float: none;
+    width: 100%;
+  }
+
+  .ym-column{
+    padding-right: 0;
   }
 
   /*------------------------------------------------------------------------------------------------------*/
   /* (en) Avoid page breaks right after headings */
-  /* (de) Vermeidung von Seitenumbrüchen direkt nach einer Überschrift */
+  /* (de) Vermeidung von Seitenumbrüchen direkt nach einer Überschrift*/ 
   h1,
   h2,
   h3,
