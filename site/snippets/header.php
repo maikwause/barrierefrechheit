@@ -8,19 +8,19 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('assets/images/favicon.ico') ?>">
-  <?php echo css('assets/styles/format.css') ?>
+  <?php echo css('assets/css/format.css') ?>
   <!--[if lte IE 7]>
   <link href="../yaml/core/iehacks.css" rel="stylesheet" type="text/css" />
-  <?php echo css('assets/styles/iehacks.css') ?>
+  <?php echo css('assets/css/iehacks.css') ?>
   <![endif]-->
 
   <!--[if lt IE 9]>
   <?php echo js('assets/js/html5shiv.js') ?>
   <script src="../lib/html5shiv/html5shiv.js"></script>
   <![endif]-->
-  <?php echo css('assets/styles/css.css') ?>
-  <?php echo css('assets/styles/html.css') ?>
-  <?php echo css('assets/styles/php.css') ?>
+  <?php echo css('assets/css/css.css') ?>
+  <?php echo css('assets/css/html.css') ?>
+  <?php echo css('assets/css/php.css') ?>
 
 </head>
 

@@ -1,0 +1,16 @@
+Title: Outline nicht ausblenden
+----
+Text:
+Outlines von Hyperlinks sollten nicht ausgeblendet werden, um Tastaturnutzern einen visuellen Anhaltspunkt zu geben, bei welchem Element sich der Fokus gerade befindet.
+Vorsicht bei sogenannten reset-Stylesheets, die das Ausblenden von Outlines zumeist global vorgeben!
+
+----
+Block:
+
+----
+Related:
+ -inhalt/semantik
+ -inhalt/focus
+
+----
+Tags: Semantik, HTML, outline, Quick-Tipp

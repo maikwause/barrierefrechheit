@@ -45,7 +45,7 @@
    foreach ($cats as $cat) {
         echo '<h3 class="cat"><a href="'.$cat->url().'">'. $cat->title().'</a></h3>';
         
-           $articles = $pages->find('archiv/'.$cat->uid)
+           $articles = $pages->find('archiv/'.$cat->uid())
                      ->children()
                      ->visible()
                      ->flip();
@@ -62,7 +62,7 @@
                     ?>
                     <ul class="artikeltags">
                     <?php foreach(str::split($article->tags()) as $tag): ?>
-                        <li><a href="<?php echo url('./archiv/tag:' . urlencode($tag)) ?>"><?php echo $tag ?></a></li>
+                        <li><a href="<?php echo url('./tag;' . urlencode($tag)) ?>"><?php echo $tag ?></a></li>
                     <?php endforeach ?>
                     </ul>
                 <?}?>

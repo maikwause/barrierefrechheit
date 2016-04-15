@@ -1,0 +1,10 @@
+Title: Regel #1 des ARIA Fightclub:
+----
+Text:
+> Nutze kein ARIA, wenn es schon ein Element dafür gibt
+
+- Patrick H. Laucke
+
+
+----
+Tags: Screenreader, WAI-ARIA, Quick-Tipp

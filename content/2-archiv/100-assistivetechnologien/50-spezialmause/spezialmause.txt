@@ -1,0 +1,30 @@
+Title: Spezialmäuse
+----
+Text:
+Menschen mit motorischer Einschränkung können traditionelle Eingabemedien wie Maus und Tastatur nicht bedienen – das klassische Maus-Konzept (Ansteuerung einen Elementes und Auswahl durch Klick oder Doppelklick) funktioniert nicht. Je nach Grad der Einschränkung kann die 'Tabulator (Tab)'-Taste der Tastatur genutzt werden um den Fokus zu steuern, dabei wird bei jedem Druck der Tabulator-Taste das nächste Element, das verlinkt ist, angesprungen. So bewegt man sich von Link zu Link über die Webseite und kann mit Drücken der 'Enter'-Taste den jeweiligen Link auswählen.
+
+Bei Benutzern mit einer groberen Motorik kommen Spezial-Mäuse zum Einsatz, die es ermöglichen, ein Objekt auf dem Bildschirm gezielt anzusteuern.
+
+(image: 01.jpg alt: Abbildung der 'Joymaus' mit Joystick zur Steuerung und besonders großen Tasten width:80%)
+ <p class="caption">Joymaus Spezialmaus<br />
+ Quelle: Barrierefrei Kommunizieren! Behinderungskompensiererende Techniken und Technologien für Computer und Internet: Technischer Jugendfreizeit- und Bildungsverein (tjfbv) e. V. Meißen 2006. S. 37.</p>
+
+Menschen mit stark eingeschränkter Bewegungsmöglichkeit stehen Kopfmäuse oder Fußmäuse zur Verfügung:
+
+(image: 02.jpg alt: Fußmaus mit drei großen Knöpfen und einer großen 'Leertaste' width:80%)
+ <p class="caption">"Maus-Simulator" Fußmaus<br />
+ Quelle: Barrierefrei Kommunizieren! Behinderungskompensiererende Techniken und Technologien für Computer und Internet: Technischer Jugendfreizeit- und Bildungsverein (tjfbv) e. V. Meißen 2006. S. 37.</p>
+
+
+
+//ToDo. Bild Mundmaus
+----
+Block:
+
+----
+Related:
+-archiv/techniken/focus
+-archiv/techniken/tabreihenfolge
+
+----
+Tags: Motorik, Tab-Taste, Beispiel, Fokus, Assistive Technologie

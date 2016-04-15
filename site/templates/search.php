@@ -4,40 +4,32 @@
       <div class="ym-column linearize-level-1">
         <div class="ym-col1">
           <div class="ym-cbox">
-            <section>
+            <section> 
               <article>
 
-                <?php
-
-                $search = new search(array(
-                  'searchfield' => 'q',
-                  'paginate' => 10
-                ));
-
-                $results = $search->results();
-
-                ?>
-
                 <h3>Suchergebnisse zu "<?php echo $_GET['q']?>"</h3>
-
-                <form action="<?php echo thisURL() ?>">
-                  <input type="text" placeholder="Suchbegriff…" name="q" value="<?php echo $_GET['q']?>" />
-                  <input type="submit" value="abschicken" />
+                <form>
+                    <input type="search" name="q" value="<?php echo esc($query) ?>">
+                    <input type="submit" value="abschicken">
                 </form>
 
-                <?php if($results): ?>
+                <?php 
+                    $pagination = $results->pagination();
+                    $itemCount = $pagination->countItems();
+                
+                if($itemCount > 0){ ?>
                 <ul id="searchresults">
                   <?php foreach($results as $result): ?>
                   <li>
-                    <h4><a href="<?php echo $result->url() ?>"><?php echo html($result->title()) ?></a></h4>
+                    <h4><a href="<?php echo $result->url() ?>"><?php echo $result->title()->html() ?></a></h4>
                     <a href="<?php echo $result->url() ?>"><?php echo html($result->url()) ?></a>
                     <p><?php echo excerpt($result->text(), 300) ?></p>
                   </li>
                   <?php endforeach ?>
                 </ul>
-                <?php else: ?>
+                <?php }else{ ?>
                 <p><strong>Leider keine Treffer zu "<?php echo $_GET['q'] ?>"...</strong></p><p> Mal in der Tag-Cloud nachsehen?</p>
-                <?php endif ?>
+                <?php } ?>
 
               </article>
             </section>

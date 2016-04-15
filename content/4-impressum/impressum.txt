@@ -1,0 +1,39 @@
+Title: Impressum
+
+----
+
+Text: 
+
+**barrierefrechheit.de** ist ein Angebot der
+mcwiwa consulting
+Mercatorstr. 2
+45143 Essen
+
+(link: http://mcwiwa.de)
+
+Fon: 0201/75001230
+Fax: 0201/75001229
+email: (email: post@barrierefrechheit.de)
+
+Für den Inhalt verantwortlich gemäß § 5 TMG:
+Maik Wagner
+
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+DE233760723
+
+#### Kolophon
+
+Die graphische Gestaltung kommt von Daniela Rogge, (link: http://www.zzwei.de text: zzwei)
+
+Die grundlegende Formatierung basiert auf dem CSS-Framework (link: http://yaml.de text: YAML), das zugrundeliegende CMS ist (link: http://getkirby.com text: Kirby).
+
+Quellenangabe für das Bild der Betonwand:
+© modil_a Fotolia (link:http://fotolia.com)
+
+----
+
+Blockhead: 
+
+----
+
+Block: 

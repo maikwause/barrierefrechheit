@@ -1,0 +1,38 @@
+Title: Inhalte linearisieren
+----
+Text:
+
+Inhalte sollten immer so strukturiert werden, dass sie linearisiert werden können. Das bedeutet, dass es ermöglicht wird, die Inhalte der einzelnen Webseite in einer Reihe nacheinander darzustellen. Dies ist besonders wichtig für Nutzer, die nicht in der Lage sind, Inhalte in einem Zug zu erfassen und sich sukzessive durch die Inhalte arbeiten müssen, wie zum Beispiel Braillezeilennutzer.
+
+Problematisch wird es z. B. wenn Tabellen zur Layoutgestaltung verwendet werden, denn Hilfsmittel wie Screenreader lesen Tabelleninhalte von links nach rechts der Reihe nach vor, also erste Reihe (`<tr>`), erste Zelle (`<td>`), dann zweite Zelle usw., dann die zweite Zeile erste Zelle usw. So werden Zusammenhänge, die optisch vorhanden sind, in der Wiedergabe zerrissen; wenn mehrfach verschachtelte Tabellen zum Einsatz kommen, geht der Überblick gänzlich verloren. Schmuckzellen oder leere Tabellenzellen, die nur der Abstandsgewinnung in der optischen Darstellung dienen, steigern diesen Effekt weiterhin.
+
+Im nachfolgenden Beispiel sind bei abgeschaltetem CSS (Cascading Style Sheet) nur die `<td>`-Elemente markiert, um zu zeigen wie die Tabelle aufgebaut ist. Man erkennt aber direkt, wie unübersichtlich sich diese Seite in einem Screenreader darstellen muss.
+
+(image: 01.jpg alt: Screenshot einer Website im Tabellenlayout width: 80%)
+<p class="caption">http://www.tuschen-lanz-leweling.de/tll/index.html abgerufen 11.03.2012</p>
+
+Wenn bei der Erstellung der Webseite auf die Linearisierbarkeit geachtet wird, zeigt sich ein ganz anderes Bild:
+(image:03.jpg alt: Screenshot einer Website in flexiblem Layout width:80%)
+<p class="caption">Screenshot der Seite http://stiftung-lebenshilfe.org/ (abgerufen 11.03.2012)</p>
+
+Die im Layout nebeneinander angeordneten Elemente (hier rot markiert), sind linearisiert; wenn man die graphische Gestaltung, die rein per CSS realisiert wurde, abschaltet, finden sie sich untereinander wieder:
+(image:02.jpg alt: Screenshot einer Website in flexiblem Layout mit abgeschaltetem CSS width: 80%)
+<p class="caption">Screenshot der Seite http://stiftung-lebenshilfe.org/ bei abgeschaltetem CSS (abgerufen 11.03.2012)</p>
+
+Elementar für die Zugänglichkeit einer Webseite ist es, die Inhalte nach ihrer Wichtigkeit zu strukturieren Die endgültige Platzierung der Inhalte kann dann (auch im Nachhinein) über CSS gesteuert werden. Das bedeutet, dass ein Randelement wie die „Sidebar“ im Fluss der Elemente erst spät kommt, da sie sonst den Weg zur schnellen Erfassung des eigentlichen Inhalts versperrt.
+
+Unter Experten gibt es bis heute Diskussionen um den richtigen Weg der Auflistung. „Content first“ ist eine Theorie, nach der es empfehlenswert ist, erst den eigentlichen Inhalt aufzulisten und die Navigation hintenanzustellen, insbesondere weil sich die Navigation ja immer wieder wiederholt. Über eine Sprungmarke kann die Navigation trotzdem direkt erreicht werden. Beim Prinzip „navigation first“ wird die Navigation dem Inhalt vorangestellt, dieser kann ebenfalls über eine Sprungmarke erreicht werden. Bei all diesen Konzepten bleibt die Zusatzinformation in der Seitenleiste vernachlässigt.
+
+
+
+----
+Related:
+
+-archiv/assistivetechnologien/braillezeile
+-archiv/beispiele/brailleschrift
+-archiv/assistivetechnologien/screenreader
+-archiv/techniken/sprungmarken
+-archiv/techniken/css
+
+----
+Tags: HTML, CSS, Sprungmarke, Überschriften, Tab-Taste

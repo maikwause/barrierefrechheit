@@ -1,0 +1,59 @@
+Title: CSS
+----
+Text:
+CSS (Cascading Stylesheet) dient dazu, auf dem strukturierten HTML Quellcode aufsetzend, ein möglichst flexibles Layout für eine Website zu entwickeln. Dabei empfiehlt es sich, die Darstellungsregeln in einer zentralen Datei auszulagern und sie jeweils per
+
+`<link href="files/layout.css" rel="stylesheet" type="text/css" media="screen" />`
+
+im Kopfbereich jeder HTML-Datei einzubinden. So fungiert eine einzelne Datei als zentrale Formatvorlage für alle Bestandteile einer Website und Änderungen in den Formatierungsregeln wirken sich auf alle definierten Elemente aus.
+
+Durch CSS können Inhalt und Design voneinander getrennt werden. Per CSS wird die graphische Gestaltung auf das klug und semantisch strukturierte HTML-Gerüst aufgesetzt und durch überlegten Einsatz werden Ort und Form der Darstellung einzelner Seitenbereiche von der Strukturebene gelöst und rein über die Präsentationsebene abgewickelt.
+
+Es ist möglich per CSS verschiedene Ausgabemedien wie Bildschirm oder Druckversion anzusprechen. Das erlaubt die gezielte Formatierung der Inhalte für eine Druckdarstellung, ebenso kann man in Abhängigkeit von der Bildschirmgröße die Formatierung der Inhalte steuern (media queries).
+
+So sähe der Aufruf einer Sammlung zusätzlicher Formatierungsanweisungen für die Druckdarstellung folgendermaßen aus:
+
+`<link href="files/print.css" rel="stylesheet" type="text/css" media="print" />`
+
+Innerhalb der CSS-Datei werden die Regeln für die Darstellung der Elemente nach dem Grundmuster
+```css
+Selektor{
+	Eigenschaft: Wert;
+	Eigenschaft: Wert;
+}
+```
+
+beschrieben. Fast alle CSS-Eigenschaften haben einen Initialwert, der vom Browser festgelegt wird und von Browser zu Browser unterschiedlich ist. Die sogenannten Reset-Stylesheets sorgen dafür, dass diese Initialwerte auf gleiche Abstände und Maße zurückgesetzt werden und der Website-Ersteller diese Werte nach eigenem Gestaltungswünschen anpassen und erweitern kann.
+
+Die angegebenen Werte innerhalb der CSS-Datei werden (vergleichbar mit einer Kaskade, daher der Name "Cascading Style Sheet") vom Eltern- zum Kindelement weitervererbt. Wird per
+
+```css
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+```
+die Schriftart für den Body auf die serifenlose Schriftfamilie festgelegt, gilt das auch für alle innerhalb von `<body>…</body>` definierten Kindelemente, bis für eines der Kindelemente etwas anderes festgelegt wird. Diese Eigenschaften werden wieder an die entsprechenden Kindelemente weitervererbt.
+
+Grundsätzlich kann einem Element auch direkt über das 'style'-Attribut eine Eigenschaft zugewiesen werden:
+`<p style="color: #00FF00">Absatz mit grüner Schrift</p>`
+
+Dies ist aber unvorteilhaft, da dadurch die Idee alle Gestaltung über eine zentrale Datei zu steuern ad absurdum geführt wird. Dieses einzigartige Element wird keine der im zentralen Dokument vorgenommenen Änderungen übernehmen, denn die sogenannte 'inline'-Formatierung hat die höchste Spezifität innerhalb der CSS-Regeln – sie hat sozusagen das letzte Wort, welche Formatierung angewendet wird.
+----
+Blockhead:
+
+----
+Block:
+
+----
+Related:
+
+Fokus
+
+----
+Tags: CSS, reset-Stylesheet
+
+----
+Links:
+
+Link1:
+	Url: http://www.w3.org/

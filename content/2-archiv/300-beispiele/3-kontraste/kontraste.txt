@@ -1,0 +1,50 @@
+Title: Kontrast-Schwarz
+
+----
+
+Text: 
+
+Für Menschen mit Sehbehinderungen ist ein starker Kontrast unerlässlich. Er hilft, optische Bereiche klarer voneinander zu trennen, enthaltene Schrift besser zu lesen. Nicht nur Menschen mit Rot-Grün-Blindheit, sondern auch Menschen mit Lese-/Rechtschreibschwäche oder Menschen mit Lernbehinderung greifen bei Problemen mit der Lesbarkeit auf ein benutzerdefiniertes Farbschema zurück, welches im Browser hinterlegt werden kann und das – sofern die Farbangaben der Webseite mit CSS formatiert sind – die vorgegeben Farben mit Farben nach eigenem Gusto überschreibt.
+
+Eine relativ deutliche Umkehrung aller Farben ist der Bildschirmmodus "Kontrast-Schwarz" unter Windows, der mit der Tastenkombination 'ALT + Shift links + Druck' aktiviert werden kann.
+
+(image: 01.jpg alt:Kontrast-Schwarz-Bildschirm width:80%)
+<p class="caption">Screenshot einer Windows-Oberfläche im Bildschirmmodus "Kontrast-Schwarz"</p>
+
+Dieser Bildschirmmodus zeigt einen vereinfachten, invertierten, gut lesbaren Bildschirm, der übrigens auch für Notebook-Nutzer im Sonnenlicht empfohlen wird:
+
+>Wer viel mit dem Notebook uterwegs ist, leidet immer mal wieder unter spiegelndem Display oder mangelndem Kontrast durch gleißendes Tageslicht. Halbwegs störungsfreies Arbeiten ist in solchen Fällen oft nur bei maximaler Bildschirm-Helligkeit möglich - auf Kosten der Akkulaufzeit. Eine elegantere Lösung ist der relativ unbekannte Windows-Bildschirmmodus für hohen Kontrast. Wir erklären, wie man diesen Modus aktiviert.
+
+> Unter schlechten Lichtverhältnissen werden grafische Spielereien von Windows und die eigenen Lieblingsfarben leicht zu einem Stressfaktor. Mit der simplen Tastenkombination ALT links + Umschalten links / Shift links + Druck / Print Screen wechselt man bei Bedarf zu einem simplen aber besonders gut lesbaren Darstellungsmodus für hohen Kontrast. Nach einer kurzen Bestätigung baut Windows den Bildschirm mit einem alternativen Anzeigeschema neu auf.
+
+> Wer mit dem Mac des Öfteren im Dunkeln arbeitet oder wegen eingeschränktem Sehvermögen eine kontrastreiche Darstellung benötigt, kann über die Systemeinstellungen im Bedienungshilfen-Dialog die Farben des Displays auf Graustufen umschalten oder den Kontrast erhöhen.
+
+----
+
+Related: 
+
+- archiv/quicktipps/contrastchecker
+- archiv/assistivetechnologien/bildschirmlupe
+
+----
+
+Tags: Sehen,Rot-Grün,Kontrast,Kontrast-Schwarz,Farbschema,Windows
+
+----
+
+Links: 
+
+- 
+  Url: >
+    http://onsoftware.softonic.de/windows-kontrastmodus-fur-schlechte-lichtverhaltnisse
+- 
+  Url: >
+    https://www.apple.com/de/accessibility/osx/
+
+----
+
+Blockhead: 
+
+----
+
+Block: 

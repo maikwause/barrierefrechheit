@@ -1,0 +1,36 @@
+Title: Zusatzinformationen zu audiovisuellen Inhalten
+----
+Text:
+Audiovisuelle Medien wie Videos hinterlassen bei den Nutzern je nach Behinderung eine Lücke in der Vermittlung der Information. Menschen mit eingeschränktem oder nicht vorhandenem Hörvermögen können den akustischen Inhalten nicht folgen, hier muss mit einer visuellen Ausgabe für Ausgleich gesorgt werden. Blinden oder sehbehinderten Menschen muss über akustische Wege der Inhalt vermittelt werden.
+
+Durch den sogenannten SMIL-Standard (Synchronized Multimedia Integration Language), einem vom W3C entwickelten Standard einer Auszeichnungssprache auf der Basis von XML, können Videos zusätzliche Informationen zeitsynchron hinzugefügt werden.
+
+Um für schwerhörige oder gehörlose Benutzer die Zugänglichkeit zu audiovisuellen Medien zu erhöhen, ist das Untertiteln von Videos Pflicht. Wer der deutschen Schriftsprache mächtig ist, kann so verfolgen, was in Filmen gesagt wird. Das hilft auch bei nuschelnden Protagonisten, bei fremdsprachlichen Filminhalten, es hilft Nicht-Muttersprachlern und Menschen mit Lernschwierigkeiten.
+
+(image: 01.jpg alt: Das Video des WCAG-Songs hat Untertitel)
+<p class="caption">Screenshot eines Musikvideos mit Untertiteln</p>
+
+Innerhalb einer SMIL-Datei werden die anzuzeigenden Texte anhand einer vorgegebenen Struktur mit einem vordefinierten Time-Code versehen. Dadurch ist definiert, von wann bis wann der entsprechende Text angezeigt werden soll. Es gibt einige Tools auf dem Markt, die dem Ersteller der Untertitel helfen, die richtigen Texte zum richtigen Zeitpunkt einzublenden.
+
+Etwas komplexer stellt sich die Beschreibung des Geschehens im Film durch Audiodeskription dar. Hier werden Beschreibungen der Handlung in Dialogpausen eingefügt, damit visuell eingeschränkte Benutzer dem Inhalt des Filmes folgen können. Grundsätzlich basiert dieses System ebenfalls auf dem SMIL-Standard, es braucht nur besonderes Fingerspitzengefühl für die Beschreibung der Situation, zusätzlich muss auf das genaue Timing zwischen den Dialogteilen geachtet werden.
+
+Im Unterschied zum Untertitel enthält ein Transkript die vollständige Mitschrift z. B. eines Vortrags. Dieses Dokument ist unabhängig vom vorzustellenden Film und hat den Vorteil, dass es als elektronischer Text durchsuchbar ist. Es kann Menschen, die nicht an der Veranstaltung teilgenommen haben, einen Eindruck vom Gesagten vermitteln. Zusätzlich eignet es sich hervorragend als Basis für die Untertitelung des Vortragsvideos, da alle gesprochenen Texte schon vorhanden sind und nur noch an den Zeitcode des Videos angepasst werden müssen.
+
+----
+Related:
+
+-archiv/assistivetechnologien/screenreader
+
+----
+Tags: SMIL, XML, W3C, gehörlos, Hören, Untertitel, Transkript, Audiodeskription
+
+----
+Links:
+
+Link1:
+	Url: http://www.w3.org/TR/SMIL3/
+	Beschreibung: SMIL beim W3C
+
+Link2:
+	Url: http://www.youtube.com/watch?v=gtuna2AWvqk
+	Beschreibung: Der WCAG-Song enthält Untertitel

@@ -1,0 +1,19 @@
+Title: Kluge Tab-Reihenfolge
+----
+Text:
+
+Neben der deutlichen optischen Auszeichnung des zu fokussierenden Links ist eine kluge Tab-Reihenfolge für die Übersichtlichkeit bei der Bedienung mit der Tastatur entscheidend. Die Reihenfolge, in der die in der Webseite enthaltenen Links angesprungen werden, sollte der Erwartung des Benutzers entsprechen und auch dessen Bedürfnissen entgegenkommen. So sollte der Fokus der Leserichtung des Benutzers folgen, also in Mitteleuropa klassisch von oben nach unten und von links nach rechts. So kann die nächste anzuspringende Stelle mit ziemlicher Wahrscheinlichkeit vorausgesagt werden und der Tastaturnutzer wird nicht durch herumspringenden Fokus verwirrt.
+
+Wenn zum Beispiel in einem Formular mit Textfeldern in zwei Spalten nebeneinander Adressdaten eingegeben werden sollen, ist die Erwartung des Nutzers, dass nach dem Vornamen der Nachname eingegeben wird, auch wenn dieser unter dem Vornamen steht. Wenn die Inhalte (link: archiv/techniken/linearisierbarkeit  text: wie beschrieben) linearisiert sind, werden die Links quasi automatisch in der richtigen Reihenfolge angesprungen.
+
+Die grundsätzliche Möglichkeit, die Reihenfolge der Tab-Sprünge per "tabindex"-Funktion zu steuern, birgt, wie alle händisch eingerichteten Reihenfolgen, die Gefahr, dass bei Änderung der Struktur der Webseite die nötige Pflege der Tabindex-Reihenfolge vergessen und nicht nachvollzogen wird.
+
+Bei Verwendung von "tabindex" muss nämlich jedes anspringbare Element mit einer entsprechenden Nummer ausgezeichnet sein, ansonsten wird das erste Element angesprungen, das keine "tabindex"-Auszeichnung trägt. So können überraschende Sprünge oder Brüche beim Durchtabben der Webseite entstehen oder Benutzer gar in der sogenannten „Tastatur-Falle“ gefangen werden. In diesem Fall werden Benutzer zu einem Link geführt, den man zwar anspringen, aber nicht mehr verlassen kann. Tastaturnutzer sind somit an dieser Stelle der Webseite gefangen. Dies kann vor allem bei über Plugins eingebundenen, häufig multimedialen Inhalten wie Flash passieren.
+----
+Related:
+
+-archiv/techniken/linearisierbarkeit
+
+----
+Tags: Sprungmarke, Fokus, Tab-Taste, tabindex, Tastaturfalle
+----

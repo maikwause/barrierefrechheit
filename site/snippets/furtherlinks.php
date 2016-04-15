@@ -1,5 +1,5 @@
 <?php 
-if ($page->links()) {
+if (!$page->links()->empty()) {
 ?>
     <article id="links">
       <div class="ym-gbox">

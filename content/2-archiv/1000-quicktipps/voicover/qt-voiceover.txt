@@ -1,0 +1,20 @@
+Title: Mach Dein iPhone zum Screenreader
+----
+Text:
+Mit drei einfachen Schritten kannst du dein iPhone selber zum Testen und Ausprobieren zum Screenrader machen:
+
+1. Einstellungen
+2. Allgemein
+3. Bedienungshilfen
+4. VoiceOver einschalten
+
+Und schon kann es losgehen mit der sprechenden Oberfläche.
+----
+Block:
+
+----
+Related: 
+-archiv/assistivetechnologien/screenreader-ios
+
+----
+Tags: Sehen, Screenreader, Quick-Tipp

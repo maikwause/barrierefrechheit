@@ -1,0 +1,98 @@
+Title: Leichte Sprache
+
+----
+
+Text: 
+
+Das Prinzip der "leichten Sprache" soll in erster Linie Menschen mit Lernschwierigkeiten, aber auch Menschen mit Lese-/Rechtschreibschwäche und Nicht-Muttersprachlern ermöglichen, komplizierter Sachverhalte zu verstehen. Zu den Prinzipien der "leichten Sprache" gehören:
+
+> - Es sollen kurze Sätze verwendet werden. Lange Sätze (mit mehr als 15 Wörtern) werden in mehrere Sätze aufgeteilt.
+> - Jeder Satz enthält nur eine Aussage.
+> - Der Konjunktiv soll nicht verwendet werden.
+> - Abstrakte Begriffe sind zu meiden. Wo sie notwendig sind, sollen sie durch anschauliche Beispiele oder Vergleiche erklärt werden.
+> - Fremdwörter, Fachwörter oder lange Zusammensetzungen werden nicht verwendet.
+> - Abkürzungen werden beim ersten Vorkommen durch die ausgeschriebene Form erklärt.
+
+- Wikipedia
+
+Das "Netzwerk Leichte Sprache" stellt in seinen "Tipps für leichte Sprache" ein paar Regeln auf, die die Struktur leichter Sprache erläutern:
+
+> Sätze sind kurz zu halten, es sollen einfache Worte verwendet werden, Fremdworte und komplizierte Worte sind zu vermeiden oder müssen erklärt werden, Abkürzungen sind zu vermeiden oder sollten beim ersten Erscheinen ausgeschrieben und/oder erläutert werden. Lange Worte sollten mit Bindestrichen geteilt werden, etc.
+
+> Seien Sie vorsichtig bei Rede-Wendungen und bei bildlicher Sprache. Viele Menschen verstehen das falsch. Sie nehmen diese Sprache wörtlich. Zum Beispiel: Das Wort Raben-Eltern ist bildliche Sprache. Raben-Eltern sind aber nicht die Eltern von Raben-Küken. Mit Raben-Eltern meint man schlechte Eltern
+
+
+Ein gelungenes Beispiel für den Einsatz von leichter Sprache ist das Portal (link: http://einfach-teilhaben.de text: "einfach-teilhaben.de"), hier ein Auszug aus dem Bereich "Schule":
+
+> **Schule**
+> **Alle Menschen haben ein Recht auf Bildung. Auch behinderte Menschen.**
+> Schule und Ausbildung sind wichtig für jeden Menschen. Wer eine gute Ausbildung hat, hat bessere Möglichkeiten bei der Arbeit. Deshalb ist die Ausbildung wichtig für die Zukunft von jedem Menschen.
+>Auch für behinderte Menschen sind Schule und Ausbildung wichtig. Behinderte Menschen haben ein Recht auf eine gute Ausbildung.
+>In Deutschland sind die Bundes-Länder zuständig für Schule und Bildung. Jedes Bundes-Land hat eigene Regeln für die Schulen. Und jedes Bundes-Land hat eigene Regeln für Schülerinnen und Schüler mit Behinderungen.
+> Zum Beispiel:
+> - In Bayern gibt es Regeln für die Förderung von behinderten Schülerinnen und Schülern. Sie gelten für alle behinderten Kinder in Bayern.
+> - In Brandenburg gibt es andere Regeln. Sie gelten für alle behinderten Kinder in Brandenburg.
+> Die Schul-Gesetze sind für jedes Bundes-Land anders. Aber manche Sachen sind auch für alle Bundes-Länder gleich Alle Kinder müssen zur Schule gehen. Das nennt man Schul-Pflicht. Die Schul-Pflicht gilt für alle Kinder in ganz Deutschland.
+- Egal ob sie eine Behinderung haben oder nicht.
+- Egal wie schwer die Behinderung ist.
+- Egal ob die Kinder in Hessen leben oder in Thüringen
+
+Für die tägliche Arbeit und konkrete Recherche empfiehlt sich (link: http://www.hurraki.de/wiki/index.php?title=Hauptseite text: "Hurraki, das Wörterbuch für leichte Sprache"), in dem für komplizierte Begriffe Erläuterungen in leichter Sprache hinterlegt sind. Eigentlich gedacht als Nachschlagewerk, kann es auch in umgekehrter Richtung genutzt werden, um Formulierungen in leichter Sprache für einen bestimmten Begriff zu verwenden.
+
+Für diejenigen Webseitenersteller, die es nicht leisten können, ihre Inhalte komplett in leichter Sprache bereitzustellen, hat sich ein Absatz am Anfang jeder Inhaltsseite bewährt, der in leichter Sprache kurz erläutert, um was es im nachfolgenden Abschnitt geht. Diese Zusammenfassung hilft allen Menschen, abzuschätzen, ob der nachfolgende Abschnitt den gesuchten Inhalt enthält.
+
+----
+
+Related: - archiv/beispiele/verstehen
+
+----
+
+Tags: Sprache,Leichte Sprache,Verstehen
+
+----
+
+Links: 
+
+- 
+  Url: >
+    http://de.wikipedia.org/wiki/Leichte_Sprache
+  Beschreibung: Wikipedia-Artikel zu "Leichte Sprache"
+  url: >
+    http://de.wikipedia.org/wiki/Leichte_Sprache
+  beschreibung: Wikipedia-Artikel zu "Leichte Sprache"
+- 
+  Url: http://www.leichtesprache.org/
+  url: http://www.leichtesprache.org/
+  beschreibung: ""
+- 
+  Url: >
+    http://www.leichtesprache.org/downloads/Regeln_Netzwerk_Leichte_Sprache.pdf
+  Beschreibung: >
+    PDF mit Tipps und Regeln zu leicher
+    Sprache
+  url: >
+    http://www.leichtesprache.org/downloads/Regeln_Netzwerk_Leichte_Sprache.pdf
+  beschreibung: >
+    PDF mit Tipps und Regeln zu leicher
+    Sprache
+- 
+  Url: >
+    http://www.einfach-teilhaben.de/DE/LS/Schule_Studium/Schule/schule_inhalt.html
+  url: >
+    http://www.einfach-teilhaben.de/DE/LS/Schule_Studium/Schule/schule_inhalt.html
+    -
+  beschreibung: ""
+- 
+  Url: >
+    http://www.hurraki.de/wiki/index.php?title=Hauptseite
+  url: >
+    http://www.hurraki.de/wiki/index.php?title=Hauptseite
+  beschreibung: ""
+
+----
+
+Blockhead: 
+
+----
+
+Block: 
