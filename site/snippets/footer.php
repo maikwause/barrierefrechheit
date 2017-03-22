@@ -48,18 +48,18 @@
 <!-- full skip link functionality in webkit browsers -->
 <?php echo js('assets/js/yaml-focusfix.js') ?>
 
-<?php echo js('http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js')?>
+<?php echo js('https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js')?>
 <?php echo js('assets/js/listusers.js') ?>
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
-  _paq.push(["setDomains", ["*.barrierefrechheit.de"]]);
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
     var u="//mcwiwa-webservice.de/piwik/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 9]);
+    _paq.push(['setSiteId', '9']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
