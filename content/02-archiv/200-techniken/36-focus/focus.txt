@@ -35,12 +35,12 @@ Ein Beispiel:
 ```css
 
 a {
-	color: #900;
+	color: #1E90FF;
 	text-decoration: underline;
 }
 
 a:hover, a:focus {
-	color: #090;
+	color: #2F4F4F;
 }
 ```
 
